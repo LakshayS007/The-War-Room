@@ -1,0 +1,67 @@
+{
+ "n": 157,
+ "spearman_vs_realised_war": {
+  "new_projection": 0.257,
+  "old_method": 0.187,
+  "last_season_only": 0.232,
+  "price": 0.278
+ },
+ "new_verdicts": {
+  "under": {
+   "n": 29,
+   "avg_realised_surplus_cr": 3.91,
+   "war_per_cr": 0.07
+  },
+  "balanced": {
+   "n": 86,
+   "avg_realised_surplus_cr": 0.22,
+   "war_per_cr": 0.038
+  },
+  "over": {
+   "n": 42,
+   "avg_realised_surplus_cr": -3.16,
+   "war_per_cr": 0.026
+  }
+ },
+ "old_verdicts": {
+  "under": {
+   "n": 44,
+   "avg_realised_surplus_cr": 0.6,
+   "war_per_cr": 0.04
+  },
+  "balanced": {
+   "n": 55,
+   "avg_realised_surplus_cr": -0.51,
+   "war_per_cr": 0.023
+  },
+  "over": {
+   "n": 43,
+   "avg_realised_surplus_cr": -2.84,
+   "war_per_cr": 0.034
+  }
+ },
+ "hit_rate": {
+  "new_under_positive_surplus": 0.379,
+  "new_over_negative_surplus": 0.738,
+  "old_under_positive_surplus": 0.432,
+  "old_over_negative_surplus": 0.674
+ },
+ "k": 120,
+ "rate_2026": 33.252,
+ "rate_2027": 32.381,
+ "hedonic_r2": 0.219,
+ "hedonic_coef": {
+  "c": 0.411,
+  "proj": 2.528,
+  "os": 0.315,
+  "wk": 0.425,
+  "ar": 0.378,
+  "bowl": -0.269,
+  "ret": 0.191,
+  "trd": 0.337
+ },
+ "os_premium_pct": 37.0,
+ "wk_premium_pct": 53.0,
+ "rho_price_proj": 0.452,
+ "n_elig": 187
+}

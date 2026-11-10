@@ -1,0 +1,12 @@
+# Raw data: large and partly non-commercial - see data/README.md
+data/*
+!data/README.md
+# Large intermediate files, rebuilt by run_pipeline.sh
+out/*.parquet
+out/ipl_ids.txt
+out/registry.csv
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

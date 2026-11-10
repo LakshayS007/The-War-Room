@@ -1,0 +1,616 @@
+year,name,os,price,base,role,team,capped,cs,proj,mprior,prev,prev_age,role2,lp,pred
+2022,Robin Uthappa,False,2.0,,Batter,Chennai Super Kings,,RV Uthappa,0.0972463097542066,28,3.0,2.0,Batter,0.9808292530117263,4.205648186490676
+2022,Dwayne Bravo,True,4.4,,All-rounder,Chennai Super Kings,,DJ Bravo,0.2877220023440777,29,6.4,4.0,Bowler,1.7692866133759966,12.352551208615687
+2022,Ambati Rayudu,False,6.75,,WK-Batter,Chennai Super Kings,,AT Rayudu,0.0935743667321166,45,2.2,4.0,Batter,2.1972245773362196,4.890563431922611
+2022,Deepak Chahar,False,14.0,,Bowler,Chennai Super Kings,,DL Chahar,0.2917417798211225,46,0.8,4.0,Bowler,2.9267394020670396,5.4426368875407745
+2022,C.Hari Nishaanth,False,0.2,,Batter,Chennai Super Kings,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,N. Jagadeesan,False,0.2,,WK-Batter,Chennai Super Kings,,N Jagadeesan,0.0146038279183857,5,0.2,4.0,Unknown,-1.3217558399823195,1.3351664624614166
+2022,K.M. Asif,False,0.2,,Bowler,Chennai Super Kings,,KM Asif,0.0305348875695326,1,,,Unknown,-1.3217558399823195,1.044214067145715
+2022,Tushar Deshpande,False,0.2,,Bowler,Chennai Super Kings,,TU Deshpande,-0.1049858681447477,5,0.2,2.0,Bowler,-1.3217558399823195,0.9239667889277736
+2022,Shivam Dube,False,4.0,,All-rounder,Chennai Super Kings,,S Dube,0.1139531907993266,24,4.4,1.0,All-rounder,1.6739764335716716,3.9985548401468365
+2022,Chris Jordan,True,3.6,,All-rounder,Chennai Super Kings,,CJ Jordan,-0.0184602347163633,13,3.0,2.0,Bowler,1.5686159179138452,5.075134648313861
+2022,Maheesh Theekshana,True,0.7,,Bowler,Chennai Super Kings,,M Theekshana,0.0,0,,,Unknown,-0.06899287148695143,1.5636939844564397
+2022,Rajvardhan Hangargekar,False,1.5,,All-rounder,Chennai Super Kings,,RS Hangargekar,0.0,0,,,Unknown,0.6931471805599453,0.7434533338576597
+2022,Simarjeet Singh,False,0.2,,Bowler,Chennai Super Kings,,Simarjeet Singh,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Devon Conway,True,1.0,,Batter,Chennai Super Kings,,DP Conway,0.0,0,,,Unknown,0.287682072451781,1.5636939844564397
+2022,Dwaine Pretorius,True,0.5,,All-rounder,Chennai Super Kings,,D Pretorius,0.0,0,,,Unknown,-0.4054651081081643,1.5636939844564397
+2022,Mitchell Santner,True,1.9,,All-rounder,Chennai Super Kings,,MJ Santner,0.1289809017214603,6,0.5,4.0,Bowler,0.9295359586241757,3.77911365858804
+2022,Adam Milne,True,1.9,,Bowler,Chennai Super Kings,,AF Milne,-0.0552415670375263,4,3.2,1.0,Bowler,0.9295359586241757,2.975536132467472
+2022,Subhranshu Senapati,False,0.2,,Batter,Chennai Super Kings,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Mukesh Choudhary,False,0.2,,Bowler,Chennai Super Kings,,Mukesh Choudhary,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Prashant Solanki,False,1.2,,Bowler,Chennai Super Kings,,PH Solanki,0.0,0,,,Unknown,0.47000362924573547,0.7434533338576597
+2022,K.Bhagath Varma,False,0.2,,All-rounder,Chennai Super Kings,,,0.0,0,0.2,1.0,Unknown,-1.3217558399823195,0.6084833291484968
+2022,David Warner,True,6.25,,Batter,Delhi Capitals,,DA Warner,0.3677626881553781,36,5.5,8.0,Batter,2.120263536200091,15.671263364830411
+2022,Mitchell Marsh,True,6.5,,All-rounder,Delhi Capitals,,MR Marsh,-0.0226142323444642,1,2.0,2.0,Unknown,2.159484249353372,2.186339447602279
+2022,Mustafizur Rahman,True,2.0,,Bowler,Delhi Capitals,,Mustafizur Rahman,0.2060716885431544,14,1.0,1.0,Bowler,0.9808292530117263,6.402146772456523
+2022,Shardul Thakur,False,10.75,,Bowler,Delhi Capitals,,SN Thakur,0.074879521581728,35,,,Bowler,2.662587827025453,3.6228115241833367
+2022,Kuldeep Yadav,False,2.0,,Bowler,Delhi Capitals,,Kuldeep Yadav,-0.0828624578488691,14,,,Bowler,0.9808292530117263,1.775879846957637
+2022,Ashwin Hebbar,False,0.2,,Batter,Delhi Capitals,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Sarfaraz Khan,False,0.2,,All-rounder,Delhi Capitals,,SN Khan,0.0369482345162892,15,,,Batter,-1.3217558399823195,2.5603972720806727
+2022,Kamlesh Nagarkoti,False,1.1,,All-rounder,Delhi Capitals,,KL Nagarkoti,-0.1043390147932794,11,3.2,4.0,Bowler,0.3829922522561059,1.7919806396461335
+2022,K.S. Bharat,False,2.0,,WK-Batter,Delhi Capitals,,KS Bharat,0.3081028083427622,8,,,Batter,0.9808292530117263,2.9553942055482785
+2022,Mandeep Singh,False,1.1,,Batter,Delhi Capitals,,Mandeep Singh,-0.0374636786807739,21,1.4,4.0,Batter,0.3829922522561059,2.6482987999800307
+2022,Syed Khaleel Ahmed,False,5.25,,Bowler,Delhi Capitals,,Shahbaz Ahmed,0.0773658735365672,13,3.0,4.0,All-rounder,1.9459101490553132,2.816616865956915
+2022,Lungisani Ngidi,True,0.5,,Bowler,Delhi Capitals,,L Ngidi,-0.0608232461871968,7,0.5,4.0,Bowler,-0.4054651081081643,2.804663143713716
+2022,Chetan Sakariya,False,4.2,,Bowler,Delhi Capitals,,C Sakariya,0.1532205775209595,14,1.2,1.0,Bowler,1.7227665977411037,2.890059948253887
+2022,Yash Dhull,False,0.5,,All-rounder,Delhi Capitals,,YV Dhull,0.0,0,,,Unknown,-0.4054651081081643,0.7434533338576597
+2022,Vicky Ostwal,False,0.2,,All-rounder,Delhi Capitals,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Ripal Patel,False,0.2,,All-rounder,Delhi Capitals,,RV Patel,-0.0041539607875823,2,0.2,1.0,All-rounder,-1.3217558399823195,0.9040203091267821
+2022,Lalit Yadav,False,0.65,,All-rounder,Delhi Capitals,,Lalit Yadav,0.0125522041534495,7,0.2,2.0,All-rounder,-0.1431008436406733,1.4154317527694986
+2022,Rovman Powell,True,2.8,,Batter,Delhi Capitals,,R Powell,0.0,0,0.3,5.0,Unknown,1.3173014896329391,1.3499227895283663
+2022,Tim Seifert,True,0.5,,WK-Batter,Delhi Capitals,,TL Seifert,-0.0183169038786367,1,,,Unknown,-0.4054651081081643,1.9971365995296615
+2022,Pravin Dubey,False,0.5,,All-rounder,Delhi Capitals,,P Dubey,-0.0968544385963891,3,,,Bowler,-0.4054651081081643,0.971331559778801
+2022,Mohammad Shami,False,6.25,,Bowler,Gujarat Titans,,Mohammed Shami,0.3163164044667022,42,4.8,3.0,Bowler,2.120263536200091,6.870486934073539
+2022,David Miller,True,3.0,,Batter,Gujarat Titans,,DA Miller,-0.1334253655478972,20,0.75,2.0,Batter,1.3862943611198906,3.8460335800669347
+2022,Jason Roy,True,2.0,,Batter,Gujarat Titans,,JJ Roy,0.056168147383618,5,1.5,2.0,Batter,0.9808292530117263,3.8854105498101847
+2022,Wriddhiman  Saha,False,1.9,,WK-Batter,Gujarat Titans,,WP Saha,0.174758274201259,18,1.2,3.0,Batter,0.9295359586241757,3.4785455644946426
+2022,Matthew Wade,True,2.4,,WK-Batter,Gujarat Titans,,MS Wade,0.0,0,,,Unknown,1.1631508098056809,1.5636939844564397
+2022,Lockie Ferguson,True,10.0,,Bowler,Gujarat Titans,,LH Ferguson,0.3720890434710749,18,1.6,3.0,Bowler,2.5902671654458267,9.560028639104226
+2022,Abhinav Sadarangani,False,2.6,,Batter,Gujarat Titans,,,0.0,0,,,Unknown,1.2431935174792172,0.7434533338576597
+2022,Rahul Tewatia,False,9.0,,All-rounder,Gujarat Titans,,R Tewatia,0.1464163283195306,33,3.0,4.0,All-rounder,2.4849066497880004,4.542151717778718
+2022,Noor  Ahmad,True,0.3,,Bowler,Gujarat Titans,,Noor Ahmad,0.0,0,,,Unknown,-0.9162907318741551,1.5636939844564397
+2022,R. Sai Kishore,False,3.0,,Bowler,Gujarat Titans,,R Sai Kishore,0.0,0,0.2,2.0,Unknown,1.3862943611198906,0.6084833291484968
+2022,Dominic Drakes,True,1.1,,All-rounder,Gujarat Titans,,,0.0,0,,,Unknown,0.3829922522561059,1.5636939844564397
+2022,Vijay Shankar,False,1.4,,All-rounder,Gujarat Titans,,V Shankar,0.0298811560667574,29,3.2,4.0,All-rounder,0.6241543090729939,3.673846576789779
+2022,Jayant Yadav,False,1.7,,All-rounder,Gujarat Titans,,J Yadav,0.2141317663532446,9,0.5,4.0,Bowler,0.8183103235139513,2.3641914024694484
+2022,Darshan Nalkande,False,0.2,,All-rounder,Gujarat Titans,,DG Nalkande,0.0,0,0.3,3.0,Unknown,-1.3217558399823195,0.6418164988171656
+2022,Yash  Dayal,False,3.2,,Bowler,Gujarat Titans,,Yash Dayal,0.0,0,,,Unknown,1.4508328822574619,0.7434533338576597
+2022,B. Sai Sudharsan,False,0.2,,All-rounder,Gujarat Titans,,B Sai Sudharsan,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Gurkeerat Singh,False,0.5,,All-rounder,Gujarat Titans,,Gurkeerat Singh,-0.043037373440546,11,,,Batter,-0.4054651081081643,1.9039942704826154
+2022,Alzarri Joseph,True,2.4,,Bowler,Gujarat Titans,,AS Joseph,0.0580581500353648,3,,,Bowler,1.1631508098056809,2.911409715093997
+2022,Varun Aaron,False,0.5,,Bowler,Gujarat Titans,,VR Aaron,-0.2369043063017765,8,2.4,3.0,Bowler,-0.4054651081081643,1.0532375603716362
+2022,Pradeep Sangwan,False,0.2,,All-rounder,Gujarat Titans,,PJ Sangwan,0.0,0,1.5,4.0,Unknown,-1.3217558399823195,0.7931402906966217
+2022,Pat Cummins,True,7.25,,All-rounder,Kolkata Knight Riders,,PJ Cummins,0.2966838908626498,21,15.5,2.0,Bowler,2.2686835413183646,12.313155855767148
+2022,Shreyas Iyer,False,12.25,,Batter,Kolkata Knight Riders,,SS Iyer,0.2194367764293837,41,2.6,7.0,Batter,2.793208009442517,5.760645544258991
+2022,Mohammad  Nabi,True,1.0,,All-rounder,Kolkata Knight Riders,,Mohammad Nabi,0.1837518263589606,12,1.0,4.0,Bowler,0.287682072451781,5.832918470389433
+2022,Nitish Rana,False,8.0,,All-rounder,Kolkata Knight Riders,,N Rana,0.2884136436053321,45,3.4,4.0,Batter,2.367123614131617,6.849308002052695
+2022,Sam Billings,True,2.0,,WK-Batter,Kolkata Knight Riders,,SW Billings,-0.0181347263346771,1,2.0,1.0,Unknown,0.9808292530117263,2.2139061811194582
+2022,Umesh Yadav,False,2.0,,Bowler,Kolkata Knight Riders,,UT Yadav,-0.1835593050385721,13,1.0,1.0,Bowler,0.9808292530117263,1.3159274878722724
+2022,Shivam  Mavi,False,7.25,,All-rounder,Kolkata Knight Riders,,Shivam Mavi,0.4143334012405943,17,3.0,4.0,Bowler,2.2686835413183646,5.125927315270662
+2022,Sheldon Jackson,False,0.6,,WK-Batter,Kolkata Knight Riders,,SP Jackson,0.0,0,0.2,1.0,Unknown,-0.22314355131420985,0.6084833291484968
+2022,Ajinkya Rahane,False,1.0,,Batter,Kolkata Knight Riders,,AM Rahane,-0.068987722514949,25,4.0,4.0,Batter,0.287682072451781,2.9896095700370697
+2022,Rinku Singh,False,0.55,,Batter,Kolkata Knight Riders,,RK Singh,-0.0008887716675359,6,0.8,4.0,Batter,-0.31015492830383945,1.6715753865272633
+2022,Anukul Roy,False,0.2,,All-rounder,Kolkata Knight Riders,,AS Roy,0.0131627763804914,1,0.2,4.0,Unknown,-1.3217558399823195,0.8336015816694646
+2022,Alex Hales,True,1.5,,Batter,Kolkata Knight Riders,,AD Hales,0.0,0,,,Unknown,0.6931471805599453,1.5636939844564397
+2022,Rasikh Dar,False,0.2,,Bowler,Kolkata Knight Riders,,Rasikh Salam,-0.0600338230416396,1,0.2,3.0,Unknown,-1.3217558399823195,0.6915566120098359
+2022,Tim Southee,True,1.5,,Bowler,Kolkata Knight Riders,,TG Southee,-0.0337805117062189,6,1.0,4.0,Bowler,0.6931471805599453,3.1301958245264347
+2022,Baba Indrajith,False,0.2,,WK-Batter,Kolkata Knight Riders,,B Indrajith,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Chamika Karunaratne,True,0.5,,All-rounder,Kolkata Knight Riders,,,0.0,0,,,Unknown,-0.4054651081081643,1.5636939844564397
+2022,Abhijeet Tomar,False,0.4,,Batter,Kolkata Knight Riders,,A Tomar,0.0,0,,,Unknown,-0.6286086594223742,0.7434533338576597
+2022,Aman Khan,False,0.2,,All-rounder,Kolkata Knight Riders,,Aman Hakim Khan,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Ramesh Kumar,False,0.2,,Batter,Kolkata Knight Riders,,R Vinay Kumar,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Pratham Singh,False,0.2,,Batter,Kolkata Knight Riders,,P Simran Singh,-0.1388275478946342,5,0.1,5.0,Batter,-1.3217558399823195,0.8094562452482976
+2022,Ashok Sharma,False,0.55,,Bowler,Kolkata Knight Riders,,Ashok Sharma,0.0,0,,,Unknown,-0.31015492830383945,0.7434533338576597
+2022,Quinton De Kock,True,6.75,,WK-Batter,Lucknow Super Giants,,Q de Kock,0.3494781862072834,43,2.8,4.0,Batter,2.1972245773362196,15.040652838822869
+2022,Manish Pandey,False,4.6,,Batter,Lucknow Super Giants,,MK Pandey,0.4198152260971158,36,11.0,4.0,Batter,1.8137383759468302,8.795087660118979
+2022,Krunal Pandya,False,8.25,,All-rounder,Lucknow Super Giants,,KH Pandya,0.0722295690480979,45,8.8,4.0,All-rounder,2.3978952727983707,5.352369430123312
+2022,Mark Wood,True,7.5,,Bowler,Lucknow Super Giants,,MA Wood,0.0,0,1.5,4.0,Unknown,2.302585092994046,1.6681997980384224
+2022,Avesh Khan,False,10.0,,Bowler,Lucknow Super Giants,,Avesh Khan,0.4984642261711741,18,0.7,4.0,Bowler,2.5902671654458267,4.887556850082073
+2022,Ankit Singh Rajpoot,False,0.5,,Bowler,Lucknow Super Giants,,AS Rajpoot,-0.3541912741160073,10,3.0,4.0,Bowler,-0.4054651081081643,0.8511360527222568
+2022,K. Gowtham,False,0.9,,All-rounder,Lucknow Super Giants,,K Gowtham,-0.1383502576375855,9,,,Bowler,0.1823215567939546,1.278898890200594
+2022,Dushmanta Chameera,True,2.0,,Bowler,Lucknow Super Giants,,,0.0,0,,,Unknown,0.9808292530117263,1.5636939844564397
+2022,Shahbaz Nadeem,False,0.5,,Bowler,Lucknow Super Giants,,S Nadeem,-0.0910036065728845,11,3.2,4.0,Bowler,-0.4054651081081643,1.8600855698516015
+2022,Manan Vohra,False,0.2,,Batter,Lucknow Super Giants,,M Vohra,-0.1601882374939356,4,0.2,3.0,Batter,-1.3217558399823195,0.7727500796593795
+2022,Evin Lewis,True,2.0,,Batter,Lucknow Super Giants,,E Lewis,0.1278511741378432,8,3.8,4.0,Batter,0.9808292530117263,5.786020939138613
+2022,Mohsin Khan,False,0.2,,Bowler,Lucknow Super Giants,,Mohsin Khan,0.0,0,0.2,2.0,Unknown,-1.3217558399823195,0.6084833291484968
+2022,Mayank Yadav,False,0.2,,Bowler,Lucknow Super Giants,,MP Yadav,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Ayush Badoni,False,0.2,,All-rounder,Lucknow Super Giants,,A Badoni,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Kyle Mayers,True,0.5,,All-rounder,Lucknow Super Giants,,KR Mayers,0.0,0,,,Unknown,-0.4054651081081643,1.5636939844564397
+2022,Karan Sharma,False,0.2,,All-rounder,Lucknow Super Giants,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Jason Holder,True,8.75,,All-rounder,Lucknow Super Giants,,JO Holder,0.2127146627740266,15,0.7,6.0,Bowler,2.456735772821304,6.339508162352555
+2022,Deepak Hooda,False,5.75,,All-rounder,Lucknow Super Giants,,DJ Hooda,0.0522163734724229,30,0.5,2.0,All-rounder,2.03688192726104,3.0135473129195285
+2022,Ishan Kishan,False,15.25,,WK-Batter,Mumbai Indians,,Ishan Kishan,0.5406797313279336,31,6.2,4.0,Batter,3.012261575505202,9.117842595629225
+2022,Dewald Brevis,True,3.0,,Batter,Mumbai Indians,,D Brevis,0.0,0,,,Unknown,1.3862943611198906,1.5636939844564397
+2022,Anmolpreet Singh,False,0.2,,Batter,Mumbai Indians,,Anmolpreet Singh,-0.0155353542148144,1,0.8,3.0,Unknown,-1.3217558399823195,0.9398871793760436
+2022,Basil Thampi,False,0.3,,Bowler,Mumbai Indians,,Basil Thampi,-0.0396550379984002,4,0.95,4.0,Bowler,-0.9162907318741551,1.2595815535542856
+2022,Murugan Ashwin,False,1.6,,Bowler,Mumbai Indians,,M Ashwin,0.2359357467670186,22,,,Bowler,0.7576857016975165,3.770082162618536
+2022,Jaydev Unadkat,False,1.3,,Bowler,Mumbai Indians,,JD Unadkat,0.0030545689543229,24,3.0,2.0,Bowler,0.550046336919272,3.2686959916305294
+2022,Mayank Markande,False,0.65,,Bowler,Mumbai Indians,,M Markande,-0.02735186718936,4,0.2,4.0,Bowler,-0.1431008436406733,1.0620939944836596
+2022,N. Tilak Varma,False,1.7,,All-rounder,Mumbai Indians,,,0.0,0,,,Unknown,0.8183103235139513,0.7434533338576597
+2022,Sanjay Yadav,False,0.5,,All-rounder,Mumbai Indians,,SA Yadav,0.4470946306661281,46,0.2,2.0,Batter,-0.4054651081081643,5.979620794525508
+2022,Jofra Archer,True,8.0,,All-rounder,Mumbai Indians,,JC Archer,1.023382226628949,25,7.2,4.0,Bowler,2.367123614131617,33.9159946661443
+2022,Daniel Sams,True,2.6,,All-rounder,Mumbai Indians,,DR Sams,-0.1371077461427247,5,,,Bowler,1.2431935174792172,2.1703929587216533
+2022,Tymal Mills,True,1.5,,Bowler,Mumbai Indians,,TS Mills,0.0,0,12.0,5.0,Unknown,0.6931471805599453,2.1929874939831273
+2022,Tim David,True,8.25,,All-rounder,Mumbai Indians,,TH David,-0.01743569739628,1,,,Unknown,2.3978952727983707,2.002065326290125
+2022,Ramandeep  Singh,False,0.2,,All-rounder,Mumbai Indians,,Ramandeep Singh,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Aryan Juyal,False,0.2,,WK-Batter,Mumbai Indians,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Fabian Allen,True,0.75,,All-rounder,Mumbai Indians,,,0.0,0,0.75,1.0,Unknown,0.0,1.522832139408356
+2022,Riley Meredith,True,1.0,,Bowler,Mumbai Indians,,RP Meredith,-0.1204485803313368,5,8.0,1.0,Bowler,0.287682072451781,3.0234153859918087
+2022,Rahul Buddhi,False,0.2,,Batter,Mumbai Indians,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Hrithik Shokeen,False,0.2,,All-rounder,Mumbai Indians,,HR Shokeen,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Mohd. Arshad Khan,False,0.2,,All-rounder,Mumbai Indians,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Arjun  Tendulkar,False,0.3,,All-rounder,Mumbai Indians,,Arjun Tendulkar,0.0,0,0.2,1.0,Unknown,-0.9162907318741551,0.6084833291484968
+2022,Shikhar Dhawan,False,8.25,,Batter,Punjab Kings,,S Dhawan,0.5656793355375465,49,5.2,4.0,Batter,2.3978952727983707,11.17284277555937
+2022,Kagiso Rabada,True,9.25,,Bowler,Punjab Kings,,K Rabada,0.3759102090701567,44,4.2,4.0,Bowler,2.512305623976115,15.769717654781857
+2022,Jonny Bairstow,True,6.75,,WK-Batter,Punjab Kings,,JM Bairstow,0.4420258982637975,28,2.2,3.0,Batter,2.1972245773362196,13.927516969775063
+2022,Rahul Chahar,False,5.25,,Bowler,Punjab Kings,,RD Chahar,0.2458213455231756,39,1.9,4.0,Bowler,1.9459101490553132,5.329752219836106
+2022,Harpreet  Brar,False,3.8,,All-rounder,Punjab Kings,,Harpreet Brar,0.0674303610825402,10,0.2,3.0,Bowler,1.622683139184121,1.7684308425110384
+2022,Shahrukh Khan,False,9.0,,All-rounder,Punjab Kings,,M Shahrukh Khan,0.1435350438771626,11,5.25,1.0,Batter,2.4849066497880004,3.3193682286541417
+2022,Jitesh Sharma,False,0.2,,WK-Batter,Punjab Kings,,JM Sharma,0.0,0,0.1,6.0,Unknown,-1.3217558399823195,0.5554598262217163
+2022,Prabhsimran Singh,False,0.6,,WK-Batter,Punjab Kings,,P Simran Singh,-0.1388275478946342,5,0.55,2.0,Batter,-0.22314355131420985,1.0129245727773575
+2022,Ishan Porel,False,0.25,,Bowler,Punjab Kings,,IC Porel,-0.0400042672024907,1,0.2,2.0,Unknown,-1.0986122886681096,0.731407276341739
+2022,Liam Livingstone,True,11.5,,All-rounder,Punjab Kings,,LS Livingstone,-0.1047209748366813,9,0.75,1.0,Batter,2.730029107820985,3.0361978702882215
+2022,Odean Smith,True,6.0,,All-rounder,Punjab Kings,,OF Smith,0.0,0,,,Unknown,2.0794415416798357,1.5636939844564397
+2022,Sandeep Sharma,False,0.5,,Bowler,Punjab Kings,,Sandeep Sharma,0.2512083243820592,31,3.0,4.0,Bowler,-0.4054651081081643,5.185449142615856
+2022,Raj Angad Bawa,False,2.0,,All-rounder,Punjab Kings,,RA Bawa,0.0,0,,,Unknown,0.9808292530117263,0.7434533338576597
+2022,Rishi Dhawan,False,0.55,,All-rounder,Punjab Kings,,R Dhawan,0.0,0,0.55,5.0,Unknown,-0.31015492830383945,0.6950825451943113
+2022,Nathan Ellis,True,0.75,,Bowler,Punjab Kings,,NT Ellis,0.0237303211330459,3,,,Bowler,0.0,2.7714742938987125
+2022,Prerak Mankad,False,0.2,,All-rounder,Punjab Kings,,PN Mankad,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Atharva Taide,False,0.2,,All-rounder,Punjab Kings,,Atharva Taide,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Vaibhav Arora,False,2.0,,Bowler,Punjab Kings,,VG Arora,0.0,0,0.2,1.0,Unknown,0.9808292530117263,0.6084833291484968
+2022,Bhanuka Rajapaksa,True,0.5,,Batter,Punjab Kings,,,0.0,0,,,Unknown,-0.4054651081081643,1.5636939844564397
+2022,Benny Howell,True,0.4,,All-rounder,Punjab Kings,,,0.0,0,,,Unknown,-0.6286086594223742,1.5636939844564397
+2022,Writtick Chatterjee,False,0.2,,All-rounder,Punjab Kings,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Baltej Dhanda,False,0.2,,Bowler,Punjab Kings,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Ansh Patel,False,0.2,,All-rounder,Punjab Kings,,AR Patel,0.4699781789636774,41,,,Bowler,-1.3217558399823195,6.820919999982406
+2022,R. Ashwin,False,5.0,,All-rounder,Rajasthan Royals,,R Ashwin,0.2479621313034619,42,,,Bowler,1.8971199848858813,5.0101312872974155
+2022,Trent Boult,True,8.0,,Bowler,Rajasthan Royals,,TA Boult,0.3029926653496521,34,2.2,4.0,Bowler,2.367123614131617,11.717950532365967
+2022,Shimron Hetmyer,True,8.5,,Batter,Rajasthan Royals,,SO Hetmyer,0.2248034680538826,31,7.75,2.0,Batter,2.4277482359480516,12.551306499217002
+2022,Devdutt Padikkal,False,7.75,,Batter,Rajasthan Royals,,D Padikkal,0.1076820704563836,29,0.2,3.0,Batter,2.3353749158170367,3.0333615979469895
+2022,Prasidh Krishna,False,10.0,,Bowler,Rajasthan Royals,,M Prasidh Krishna,-0.1114828165194269,27,,,Bowler,2.5902671654458267,2.1397453930210064
+2022,Yuzvendra Chahal,False,6.5,,Bowler,Rajasthan Royals,,YS Chahal,0.4632874795871727,44,,,Bowler,2.159484249353372,6.9576803150492745
+2022,Riyan Parag,False,3.8,,All-rounder,Rajasthan Royals,,R Parag,-0.1276884280247413,30,0.2,3.0,All-rounder,1.622683139184121,1.7341276188271875
+2022,K.C Cariappa,False,0.3,,Bowler,Rajasthan Royals,,KC Cariappa,-0.0451899302513765,1,0.2,1.0,Unknown,-0.9162907318741551,0.7208747732529164
+2022,James Neesham,True,1.5,,All-rounder,Rajasthan Royals,,JDS Neesham,-0.0194343252911707,8,0.5,1.0,Bowler,0.6931471805599453,3.311278981465084
+2022,Nathan Coulter-Nile,True,2.0,,Bowler,Rajasthan Royals,,NM Coulter-Nile,0.3771260216481691,12,5.0,1.0,Bowler,0.9808292530117263,9.513323955519825
+2022,Navdeep Saini,False,2.6,,Bowler,Rajasthan Royals,,NA Saini,0.0,0,3.0,4.0,Unknown,1.2431935174792172,0.8688524746202764
+2022,Kuldeep  Sen,False,0.2,,Bowler,Rajasthan Royals,,KR Sen,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Karun Nair,False,1.4,,Batter,Rajasthan Royals,,KK Nair,-0.0767466608704913,5,0.5,1.0,Unknown,0.6241543090729939,1.1900007656373905
+2022,Rassie Van Der Dussen,True,1.0,,Batter,Rajasthan Royals,,,0.0,0,,,Unknown,0.287682072451781,1.5636939844564397
+2022,Daryl Mitchell,True,0.75,,All-rounder,Rajasthan Royals,,DJ Mitchell,0.0,0,,,Unknown,0.0,1.5636939844564397
+2022,Obed Mccoy,True,0.75,,Bowler,Rajasthan Royals,,OC McCoy,0.0,0,,,Unknown,0.0,1.5636939844564397
+2022,Dhruv Jurel,False,0.2,,WK-Batter,Rajasthan Royals,,Dhruv Jurel,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Tejas Baroka,False,0.2,,Bowler,Rajasthan Royals,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Kuldip Yadav,False,0.2,,Bowler,Rajasthan Royals,,,0.0,0,0.2,1.0,Unknown,-1.3217558399823195,0.6084833291484968
+2022,Shubham Garhwal,False,0.2,,All-rounder,Rajasthan Royals,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Anunay Singh,False,0.2,,All-rounder,Rajasthan Royals,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Faf Du Plessis,True,7.0,,Batter,Royal Challengers Bangalore,,F du Plessis,0.4421409959173001,41,1.6,4.0,Batter,2.2335922215070942,15.646591722404445
+2022,Wanindu Hasaranga,True,10.75,,All-rounder,Royal Challengers Bangalore,,PWH de Silva,-0.0624505675197221,2,,,Bowler,2.662587827025453,1.9894063656608798
+2022,Harshal Patel,False,10.75,,All-rounder,Royal Challengers Bangalore,,HV Patel,0.258798515336353,22,0.2,4.0,Bowler,2.662587827025453,3.1885515531309907
+2022,Dinesh  Karthik,False,5.5,,WK-Batter,Royal Challengers Bangalore,,KD Karthik,0.1002979212510008,45,7.4,4.0,Batter,1.992430164690206,5.792190084560094
+2022,Josh Hazlewood,True,7.75,,Bowler,Royal Challengers Bangalore,,JR Hazlewood,0.2293923902662088,12,2.0,2.0,Bowler,2.3353749158170367,6.822197643264019
+2022,Shahbaz Ahamad,False,2.4,,All-rounder,Royal Challengers Bangalore,,,0.0,0,0.2,2.0,Unknown,1.1631508098056809,0.6084833291484968
+2022,Anuj Rawat,False,3.4,,WK-Batter,Royal Challengers Bangalore,,Anuj Rawat,-0.0053317797728889,2,0.8,2.0,Unknown,1.5114575040738967,1.149853851167266
+2022,Akash  Deep,False,0.2,,Bowler,Royal Challengers Bangalore,,Akash Deep,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Karn Sharma,False,0.5,,Bowler,Royal Challengers Bangalore,,KV Sharma,0.0289590252139769,6,5.0,4.0,Bowler,-0.4054651081081643,2.107149122502994
+2022,Mahipal Lomror,False,0.95,,All-rounder,Royal Challengers Bangalore,,MK Lomror,0.1853684736903302,9,0.2,4.0,All-rounder,0.23638877806423034,1.9950550582843485
+2022,Finn Allen,True,0.8,,Batter,Royal Challengers Bangalore,,FH Allen,0.0,0,,,Unknown,0.06453852113757116,1.5636939844564397
+2022,Sherfane Rutherford,True,1.0,,All-rounder,Royal Challengers Bangalore,,SE Rutherford,0.0156171087224578,7,2.0,3.0,All-rounder,0.287682072451781,4.0479220769758575
+2022,Jason Behrendorff,True,0.75,,Bowler,Royal Challengers Bangalore,,JP Behrendorff,0.0290270079866711,5,1.5,4.0,Bowler,0.0,3.5422544469160924
+2022,Siddharth  Kaul,False,0.75,,Bowler,Royal Challengers Bangalore,,S Kaul,-0.0394909672012841,16,,,Bowler,0.0,2.114975199751543
+2022,Suyash Prabhudessai,False,0.3,,All-rounder,Royal Challengers Bangalore,,SS Prabhudessai,0.0,0,,,Unknown,-0.9162907318741551,0.7434533338576597
+2022,Luvnith Sisodia,False,0.2,,WK-Batter,Royal Challengers Bangalore,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Chama Milind,False,0.25,,Bowler,Royal Challengers Bangalore,,,0.0,0,0.1,6.0,Unknown,-1.0986122886681096,0.5554598262217163
+2022,Aneeshwar Gautam,False,0.2,,All-rounder,Royal Challengers Bangalore,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,David Willey,True,2.0,,All-rounder,Royal Challengers Bangalore,,DJ Willey,0.0,0,,,Unknown,0.9808292530117263,1.5636939844564397
+2022,Washington Sundar,False,8.75,,All-rounder,Sunrisers Hyderabad,,Washington Sundar,0.2783699203016143,24,,,Bowler,2.456735772821304,4.151964854996462
+2022,Nicholas Pooran,True,10.75,,WK-Batter,Sunrisers Hyderabad,,N Pooran,0.1868138496444593,33,,,Batter,2.662587827025453,9.211822093150067
+2022,Bhuvneshwar Kumar,False,4.2,,Bowler,Sunrisers Hyderabad,,B Kumar,0.29909562705712,30,4.25,8.0,Bowler,1.7227665977411037,5.736404766779424
+2022,T. Natarajan,False,4.0,,Bowler,Sunrisers Hyderabad,,T Natarajan,0.2419682806139011,18,0.4,4.0,Bowler,1.6739764335716716,3.1425356455905575
+2022,Priyam  Garg,False,0.2,,Batter,Sunrisers Hyderabad,,PK Garg,0.0197518935294223,19,1.9,2.0,Batter,-1.3217558399823195,3.023854898311333
+2022,Rahul Tripathi,False,8.5,,Batter,Sunrisers Hyderabad,,RA Tripathi,0.3987705593074634,36,0.6,2.0,Batter,2.4277482359480516,5.8205610912212045
+2022,Abhishek Sharma,False,6.5,,All-rounder,Sunrisers Hyderabad,,Abhishek Sharma,0.0396148861429724,19,0.55,4.0,All-rounder,2.159484249353372,2.485528071277881
+2022,Vishnu Vinod,False,0.5,,WK-Batter,Sunrisers Hyderabad,,Vishnu Vinod,0.0,0,0.2,1.0,Unknown,-0.4054651081081643,0.6084833291484968
+2022,Kartik Tyagi,False,4.0,,Bowler,Sunrisers Hyderabad,,Kartik Tyagi,-0.0452302903678022,14,1.3,2.0,Bowler,1.6739764335716716,2.065618488481709
+2022,Shreyas Gopal,False,0.75,,Bowler,Sunrisers Hyderabad,,S Gopal,0.0953846551646827,31,0.2,4.0,Bowler,0.0,2.90390613331749
+2022,Jagadeesha Suchith,False,0.2,,Bowler,Sunrisers Hyderabad,,J Suchith,0.0240815194764194,3,,,Bowler,-1.3217558399823195,1.3183528518023897
+2022,Aiden Markram,True,2.6,,Batter,Sunrisers Hyderabad,,AK Markram,0.0607220256498172,6,,,Batter,1.2431935174792172,3.915232007644632
+2022,Marco Jansen,True,4.2,,All-rounder,Sunrisers Hyderabad,,M Jansen,-0.0222834824609239,2,0.2,1.0,Bowler,1.7227665977411037,1.8218504129383803
+2022,Romario Shepherd,True,7.75,,All-rounder,Sunrisers Hyderabad,,R Shepherd,0.0,0,,,Unknown,2.3353749158170367,1.5636939844564397
+2022,Glenn Phillips,True,1.5,,WK-Batter,Sunrisers Hyderabad,,GD Phillips,-0.0559121558080429,3,,,All-rounder,0.6931471805599453,2.272697327653598
+2022,Fazalhaq Farooqi,True,0.5,,Bowler,Sunrisers Hyderabad,,Fazalhaq Farooqi,0.0,0,,,Unknown,-0.4054651081081643,1.5636939844564397
+2022,Sean Abbott,True,2.4,,Bowler,Sunrisers Hyderabad,,SA Abbott,0.0,0,1.0,7.0,Unknown,1.1631508098056809,1.58156072439084
+2022,R Samarth,False,0.2,,Batter,Sunrisers Hyderabad,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2022,Shashank Singh,False,0.2,,All-rounder,Sunrisers Hyderabad,,Shashank Singh,0.0,0,0.3,3.0,Unknown,-1.3217558399823195,0.6418164988171656
+2022,Saurabh Dubey,False,0.2,,Bowler,Sunrisers Hyderabad,,,0.0,0,,,Unknown,-1.3217558399823195,0.7434533338576597
+2023,Ajinkya Rahane,False,0.5,,Batter,Chennai Super Kings,,AM Rahane,-0.1396805497949433,18,1.0,1.0,Batter,-0.4595323293784402,1.537636736086457
+2023,Bhagath Varma,False,0.2,,All-rounder,Chennai Super Kings,,,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Kyle Jamieson,True,1.0,,Bowler,Chennai Super Kings,,KA Jamieson,-0.0329197101492779,9,15.0,2.0,Bowler,0.2336148511815051,7.730255151935486
+2023,Ajay Mandal,False,0.2,,All-rounder,Chennai Super Kings,,,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Nishant Sindhu,False,0.6,,All-rounder,Chennai Super Kings,,N Sindhu,0.0,0,,,Unknown,-0.2772107725844855,0.6393113382758833
+2023,Shaik Rasheed,False,0.2,,Batter,Chennai Super Kings,,SK Rasheed,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Ben Stokes,True,16.25,,All-rounder,Chennai Super Kings,,BA Stokes,-0.0417026192724339,9,,,All-rounder,3.0217077599572515,5.181233433349848
+2023,Phil Salt,True,2.0,,WK-Batter,Delhi Capitals,,PD Salt,0.0,0,,,Unknown,0.9267620317414504,2.3168865277112967
+2023,Ishant Sharma,False,0.5,,Bowler,Delhi Capitals,,I Sharma,-0.0161554540851631,4,1.1,4.0,Bowler,-0.4595323293784402,1.1792518698104066
+2023,Rilee Rossouw,True,4.6,,Batter,Delhi Capitals,,RR Rossouw,0.0,0,,,Unknown,1.7596711546765544,2.3168865277112967
+2023,Manish Pandey,False,2.4,,Batter,Delhi Capitals,,MK Pandey,0.2561400670084813,30,4.6,1.0,Batter,1.1090835885354051,4.944169903863959
+2023,Mukesh Kumar,False,5.5,,Bowler,Delhi Capitals,,Mukesh Kumar,0.0,0,,,Unknown,1.9383629434199305,0.6393113382758833
+2023,Shivam Mavi,False,6.0,,Bowler,Gujarat Titans,,Shivam Mavi,0.1435423857611364,23,7.25,1.0,Bowler,2.02537432040956,3.7950794683400693
+2023,K.S. Bharat,False,1.2,,WK-Batter,Gujarat Titans,,KS Bharat,0.1216073654999665,10,2.0,1.0,Batter,0.41593640797545983,2.347401374604765
+2023,Urvil Patel,False,0.2,,WK-Batter,Gujarat Titans,,Urvil Patel,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Mohit Sharma,False,0.5,,Bowler,Gujarat Titans,,MM Sharma,-0.0143744874789478,1,0.5,3.0,Unknown,-0.4595323293784402,0.7622468935550352
+2023,Joshua Little,True,4.4,,Bowler,Gujarat Titans,,J Little,0.0,0,,,Unknown,1.7152193921057206,2.3168865277112967
+2023,Kane Williamson,True,2.0,,Batter,Gujarat Titans,,KS Williamson,-0.1191565417940708,35,3.0,5.0,Batter,0.9267620317414504,8.958178047435066
+2023,Odean Smith,True,0.5,,All-rounder,Gujarat Titans,,OF Smith,-0.1806703911822385,6,6.0,1.0,All-rounder,-0.4595323293784402,3.861710647338519
+2023,Kulwant Khejroliya,False,0.2,,Bowler,Kolkata Knight Riders,,K Khejroliya,0.0,0,0.85,5.0,Unknown,-1.3758230612525952,0.6329401118750339
+2023,Shakib Al Hasan,True,1.5,,All-rounder,Kolkata Knight Riders,,Shakib Al Hasan,0.018400926000092,8,3.2,2.0,Bowler,0.6390799592896697,6.789931136000063
+2023,Vaibhav Arora,False,0.6,,Bowler,Kolkata Knight Riders,,VG Arora,-0.1462460897790316,5,2.0,1.0,Bowler,-0.2772107725844855,0.9583586265057684
+2023,N. Jagadeesan,False,0.9,,WK-Batter,Kolkata Knight Riders,,N Jagadeesan,-0.0775286295930345,7,0.2,1.0,Batter,0.12825433552367885,1.0234064527064217
+2023,David Wiese,True,1.0,,All-rounder,Kolkata Knight Riders,,D Wiese,0.0,0,2.8,8.0,Unknown,0.2336148511815051,2.6832174877865165
+2023,Mandeep Singh,False,0.5,,Batter,Kolkata Knight Riders,,Mandeep Singh,-0.1664991367769154,11,1.1,1.0,Batter,-0.4595323293784402,1.187200129648138
+2023,Litton Das,True,0.5,,WK-Batter,Kolkata Knight Riders,,Liton Das,0.0,0,,,Unknown,-0.4595323293784402,2.3168865277112967
+2023,Suyash Sharma,False,0.2,,Bowler,Kolkata Knight Riders,,Suyash Sharma,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Amit Mishra,False,0.5,,Bowler,Lucknow Super Giants,,A Mishra,0.0485348829124939,7,4.0,5.0,Bowler,-0.4595323293784402,1.9158541985515938
+2023,Nicholas Pooran,True,16.0,,WK-Batter,Lucknow Super Giants,,N Pooran,0.154364862091792,40,10.75,1.0,Batter,3.006203573421286,19.50679308084528
+2023,Romario Shepherd,True,0.5,,All-rounder,Lucknow Super Giants,,R Shepherd,-0.0465618519466086,3,7.75,1.0,All-rounder,-0.4595323293784402,4.576797851056544
+2023,Daniel Sams,True,0.75,,All-rounder,Lucknow Super Giants,,DR Sams,-0.1215027986016536,16,2.6,1.0,Bowler,-0.0540672212702757,6.009627440281466
+2023,Swapnil Singh,False,0.2,,All-rounder,Lucknow Super Giants,,Swapnil Singh,0.0,0,0.1,7.0,Unknown,-1.3758230612525952,0.4776517216187293
+2023,Yudhvir Charak,False,0.2,,All-rounder,Lucknow Super Giants,,,0.0,0,0.2,2.0,Unknown,-1.3758230612525952,0.5232477598264017
+2023,Prerak Mankad,False,0.2,,All-rounder,Lucknow Super Giants,,PN Mankad,0.0137533984570512,1,0.2,1.0,Unknown,-1.3758230612525952,0.7174395072311661
+2023,Yash Thakur,False,0.45,,Bowler,Lucknow Super Giants,,Yash Thakur,0.0,0,,,Unknown,-0.5648928450362665,0.6393113382758833
+2023,Naveen Ul Haq,True,0.5,,Bowler,Lucknow Super Giants,,,0.0,0,,,Unknown,-0.4595323293784402,2.3168865277112967
+2023,Jaydev Unadkat,False,0.5,,Bowler,Lucknow Super Giants,,JD Unadkat,0.0358651506533133,18,1.3,1.0,Bowler,-0.4595323293784402,2.3476312702123665
+2023,Jhye Richardson,True,1.5,,Bowler,Mumbai Indians,,JA Richardson,-0.1153824547510035,3,14.0,2.0,Bowler,0.6390799592896697,4.113403390471721
+2023,Nehal Wadhera,False,0.2,,All-rounder,Mumbai Indians,,N Wadhera,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Raghav Goyal,False,0.2,,Bowler,Mumbai Indians,,R Goyal,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Cameron Green,True,17.5,,All-rounder,Mumbai Indians,,C Green,0.0,0,,,Unknown,3.0958157321109736,2.3168865277112967
+2023,Vishnu Vinod,False,0.2,,WK-Batter,Mumbai Indians,,Vishnu Vinod,0.0,0,0.5,1.0,Unknown,-1.3758230612525952,0.5902696892875333
+2023,Duan Jansen,True,0.2,,All-rounder,Mumbai Indians,,D Jansen,0.0,0,,,Unknown,-1.3758230612525952,2.3168865277112967
+2023,Piyush Chawla,False,0.5,,Bowler,Mumbai Indians,,PP Chawla,-0.0119978612666276,8,2.4,2.0,Bowler,-0.4595323293784402,1.699015235066543
+2023,Shams Mulani,False,0.2,,All-rounder,Mumbai Indians,,SZ Mulani,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Harpreet Bhatia,False,0.4,,Batter,Punjab Kings,,,0.0,0,,,Unknown,-0.6826758806926498,0.6393113382758833
+2023,Shivam Singh,False,0.2,,All-rounder,Punjab Kings,,Shivam Singh,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Vidwath Kaverappa,False,0.2,,Bowler,Punjab Kings,,V Kaverappa,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Mohit Rathee,False,0.2,,All-rounder,Punjab Kings,,Mohit Rathee,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Sam Curran,True,18.5,,All-rounder,Punjab Kings,,SM Curran,0.0057489052086683,23,5.5,3.0,Bowler,3.1513855832657844,10.883332406088256
+2023,Sikandar Raza,True,0.5,,All-rounder,Punjab Kings,,Sikandar Raza,0.0,0,,,Unknown,-0.4595323293784402,2.3168865277112967
+2023,Jason Holder,True,5.75,,All-rounder,Rajasthan Royals,,JO Holder,-0.0513116443352267,27,8.75,1.0,Bowler,1.9828147059907644,10.615715788234782
+2023,Adam Zampa,True,1.5,,Bowler,Rajasthan Royals,,A Zampa,-0.0144908497766321,3,0.3,7.0,Bowler,0.6390799592896697,3.2902545447232034
+2023,Abdul P A,False,0.2,,All-rounder,Rajasthan Royals,,,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Akash Vashisht,False,0.2,,All-rounder,Rajasthan Royals,,,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Donovan Ferreira,True,0.5,,WK-Batter,Rajasthan Royals,,D Ferreira,0.0,0,,,Unknown,-0.4595323293784402,2.3168865277112967
+2023,Kunal Rathore,False,0.2,,WK-Batter,Rajasthan Royals,,KS Rathore,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Joe Root,True,1.0,,Batter,Rajasthan Royals,,JE Root,0.0,0,,,Unknown,0.2336148511815051,2.3168865277112967
+2023,Murugan Ashwin,False,0.2,,Bowler,Rajasthan Royals,,M Ashwin,0.1103226796821894,20,1.6,1.0,Bowler,-1.3758230612525952,2.801863463303297
+2023,K.M. Asif,False,0.3,,Bowler,Rajasthan Royals,,KM Asif,0.0246249093302682,1,0.2,1.0,Unknown,-0.9703579531444309,0.7287192029849933
+2023,Sonu Yadav,False,0.2,,All-rounder,Royal Challengers Bangalore,,SA Yadav,0.575859036926643,38,,,Batter,-1.3758230612525952,6.978926087749085
+2023,Himanshu Sharma,False,0.2,,Bowler,Royal Challengers Bangalore,,H Sharma,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Avinash Singh,False,0.6,,Bowler,Royal Challengers Bangalore,,,0.0,0,,,Unknown,-0.2772107725844855,0.6393113382758833
+2023,Manoj Bhandage,False,0.2,,All-rounder,Royal Challengers Bangalore,,MS Bhandage,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Will Jacks,True,3.2,,Batter,Royal Challengers Bangalore,,WG Jacks,0.0,0,,,Unknown,1.3967656609871861,2.3168865277112967
+2023,Reece Topley,True,1.9,,Bowler,Royal Challengers Bangalore,,RJW Topley,0.0,0,,,Unknown,0.8754687373538999,2.3168865277112967
+2023,Rajan Kumar,False,0.7,,Bowler,Royal Challengers Bangalore,,R Vinay Kumar,0.0,0,,,Unknown,-0.12306009275722725,0.6393113382758833
+2023,Sanvir Singh,False,0.2,,All-rounder,Sunrisers Hyderabad,,Sanvir Singh,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Harry Brook,True,13.25,,Batter,Sunrisers Hyderabad,,HC Brook,0.0,0,,,Unknown,2.817612403613736,2.3168865277112967
+2023,Heinrich Klaasen,True,5.25,,WK-Batter,Sunrisers Hyderabad,,H Klaasen,0.0,0,0.5,4.0,Unknown,1.8918429277850375,2.1391578859132654
+2023,Akeal Hosein,True,1.0,,Bowler,Sunrisers Hyderabad,,AJ Hosein,0.0,0,,,Unknown,0.2336148511815051,2.3168865277112967
+2023,Mayank Markande,False,0.5,,Bowler,Sunrisers Hyderabad,,M Markande,0.0306009028955418,3,0.65,1.0,Bowler,-0.4595323293784402,1.0936509884325156
+2023,Adil Rashid,True,2.0,,Bowler,Sunrisers Hyderabad,,AU Rashid,-0.0609948704445356,1,,,Unknown,0.9267620317414504,2.626130811707609
+2023,Anmolpreet Singh,False,0.2,,Batter,Sunrisers Hyderabad,,Anmolpreet Singh,-0.0128458378028322,3,0.2,1.0,Unknown,-1.3758230612525952,0.9122556870263974
+2023,Vivrant Sharma,False,2.6,,All-rounder,Sunrisers Hyderabad,,Vivrant Sharma,0.0,0,,,Unknown,1.1891262962089415,0.6393113382758833
+2023,Samarth Vyas,False,0.2,,All-rounder,Sunrisers Hyderabad,,,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Upendra Singh Yadav,False,0.25,,WK-Batter,Sunrisers Hyderabad,,UT Yadav,0.369513915575395,14,,,Bowler,-1.1526795099383855,3.2719477059413524
+2023,Nitish Kumar Reddy,False,0.2,,WK-Batter,Sunrisers Hyderabad,,Nithish Kumar Reddy,0.0,0,,,Unknown,-1.3758230612525952,0.6393113382758833
+2023,Mayank Agarwal,False,8.25,,Batter,Sunrisers Hyderabad,,MA Agarwal,0.354188702577398,36,1.0,5.0,Batter,2.343828051528095,5.021365836494136
+2023,Mayank Dagar,False,1.8,,All-rounder,Sunrisers Hyderabad,,Mayank Dagar,0.0,0,0.2,5.0,Unknown,0.8214015160836241,0.5232477598264017
+2024,Avanish Rao Aravelly,False,0.2,,WK-Batter,Chennai Super Kings,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Mustafizur Rahman,True,2.0,,Bowler,Chennai Super Kings,,Mustafizur Rahman,0.1920228046753271,24,2.0,2.0,Bowler,0.8754687373538999,13.332184495349214
+2024,Daryl Mitchell,True,14.0,,All-rounder,Chennai Super Kings,,DJ Mitchell,-0.0606357254996849,2,0.75,2.0,All-rounder,2.8213788864092133,3.0129915550813724
+2024,Sameer Rizvi,False,8.4,,Batter,Chennai Super Kings,,Sameer Rizvi,0.0,0,,,Unknown,2.3105532626432224,0.6729593034482981
+2024,Rachin Ravindra,True,1.8,,All-rounder,Chennai Super Kings,,R Ravindra,0.0,0,,,Unknown,0.7701082216960737,2.438827923906628
+2024,Shardul Thakur,False,4.0,,All-rounder,Chennai Super Kings,,SN Thakur,-0.0396259350941678,41,10.75,2.0,Bowler,1.5686159179138452,3.8918850693024174
+2024,Ricky Bhui,False,0.2,,WK-Batter,Delhi Capitals,,RK Bhui,0.0,0,0.2,6.0,Unknown,-1.4271163556401458,0.5507871156067385
+2024,Sumit Kumar,False,1.0,,All-rounder,Delhi Capitals,,Sumit Kumar,0.0,0,,,Unknown,0.1823215567939546,0.6729593034482981
+2024,Swastik Chhikara,False,0.2,,Batter,Delhi Capitals,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Jhye Richardson,True,5.0,,Bowler,Delhi Capitals,,JA Richardson,-0.0885493257391423,3,1.5,1.0,Bowler,1.791759469228055,3.479206000022766
+2024,Shai Hope,True,0.75,,WK-Batter,Delhi Capitals,,SD Hope,0.0,0,,,Unknown,-0.1053605156578264,2.438827923906628
+2024,Rasikh Dar,False,0.2,,Bowler,Delhi Capitals,,Rasikh Salam,0.0334573682064998,2,0.2,2.0,Bowler,-1.4271163556401458,0.8755265812029264
+2024,Kumar Kushagra,False,7.2,,WK-Batter,Delhi Capitals,,Kumar Kushagra,0.0,0,,,Unknown,2.1564025828159643,0.6729593034482981
+2024,Tristan Stubbs,True,0.5,,WK-Batter,Delhi Capitals,,T Stubbs,-0.0019392882250381,4,,,All-rounder,-0.5108256237659907,4.534258510050809
+2024,Harry Brook,True,4.0,,Batter,Delhi Capitals,,HC Brook,-0.1907636881753027,11,13.25,1.0,Batter,1.5686159179138452,5.870604337069409
+2024,Kartik Tyagi,False,0.6,,Bowler,Gujarat Titans,,Kartik Tyagi,-0.1513681939853584,9,4.0,2.0,Bowler,-0.3285040669720361,1.3548259732235937
+2024,Spencer Johnson,True,10.0,,Bowler,Gujarat Titans,,SH Johnson,0.0,0,,,Unknown,2.4849066497880004,2.438827923906628
+2024,Manav Suthar,False,0.2,,Bowler,Gujarat Titans,,MJ Suthar,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Robin Minz,False,3.6,,WK-Batter,Gujarat Titans,,R Minz,0.0,0,,,Unknown,1.463255402256019,0.6729593034482981
+2024,Sushant Mishra,False,2.2,,Bowler,Gujarat Titans,,SS Mishra,0.0,0,,,Unknown,0.9707789171582248,0.6729593034482981
+2024,Azmatullah Omarzai,True,0.5,,All-rounder,Gujarat Titans,,Azmatullah Omarzai,0.0,0,,,Unknown,-0.5108256237659907,2.438827923906628
+2024,Shahrukh Khan,False,7.4,,All-rounder,Gujarat Titans,,M Shahrukh Khan,-0.0115540450987798,33,9.0,2.0,Batter,2.1838015570040787,3.9644096929002894
+2024,Umesh Yadav,False,5.8,,Bowler,Gujarat Titans,,UT Yadav,0.1851330181405877,20,2.0,2.0,Bowler,1.940179474346328,3.3813557532003773
+2024,Mujeeb Rahman,True,2.0,,Bowler,Kolkata Knight Riders,,,0.0,0,,,Unknown,0.8754687373538999,2.438827923906628
+2024,Manish Pandey,False,0.5,,Batter,Kolkata Knight Riders,,MK Pandey,0.0614892546083428,24,2.4,1.0,Batter,-0.5108256237659907,3.29625853918797
+2024,Gus Atkinson,True,1.0,,Bowler,Kolkata Knight Riders,,,0.0,0,,,Unknown,0.1823215567939546,2.438827923906628
+2024,Angkrish Raghuvanshi,False,0.2,,Batter,Kolkata Knight Riders,,A Raghuvanshi,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Mitchell  Starc,True,24.75,,Bowler,Kolkata Knight Riders,,MA Starc,0.0,0,9.4,6.0,Unknown,3.391147045808654,3.312194243238117
+2024,Sherfane Rutherford,True,1.5,,Batter,Kolkata Knight Riders,,SE Rutherford,-0.1171237047857169,3,1.0,2.0,Batter,0.587786664902119,3.212547950067737
+2024,Ramandeep  Singh,False,0.2,,All-rounder,Kolkata Knight Riders,,Ramandeep Singh,-0.0675437325445853,5,0.2,2.0,All-rounder,-1.4271163556401458,0.9213307875204498
+2024,K.S. Bharat,False,0.5,,WK-Batter,Kolkata Knight Riders,,KS Bharat,0.0907135302329078,10,1.2,1.0,Batter,-0.5108256237659907,2.2101938541093404
+2024,Chetan Sakariya,False,0.5,,Bowler,Kolkata Knight Riders,,C Sakariya,0.1526252327986674,19,4.2,2.0,Bowler,-0.5108256237659907,3.4847389900659604
+2024,Sakib Hussain,False,0.2,,Bowler,Kolkata Knight Riders,,Sakib Hussain,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Ashton Turner,True,1.0,,Batter,Lucknow Super Giants,,AJ Turner,0.0,0,0.5,5.0,Unknown,0.1823215567939546,2.251745143066595
+2024,David Willey,True,2.0,,All-rounder,Lucknow Super Giants,,DJ Willey,0.2213460566422944,8,2.0,2.0,Bowler,0.8754687373538999,8.990099211498393
+2024,M. Siddharth,False,2.4,,Bowler,Lucknow Super Giants,,M Siddharth,0.0,0,0.2,3.0,Unknown,1.0577902941478545,0.5507871156067385
+2024,Shivam  Mavi,False,6.4,,Bowler,Lucknow Super Giants,,Shivam Mavi,0.0884930815488554,15,6.0,1.0,Bowler,2.038619547159581,3.0283725652583344
+2024,Arshin Kulkarni,False,0.2,,All-rounder,Lucknow Super Giants,,AA Kulkarni,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Mohd. Arshad Khan,False,0.2,,All-rounder,Lucknow Super Giants,,,0.0,0,0.2,2.0,Unknown,-1.4271163556401458,0.5507871156067385
+2024,Dilshan Madushanka,True,4.6,,Bowler,Mumbai Indians,,D Madushanka,0.0,0,,,Unknown,1.7083778602890038,2.438827923906628
+2024,Shreyas Gopal,False,0.2,,Bowler,Mumbai Indians,,S Gopal,-0.140685223561354,4,0.75,2.0,Bowler,-1.4271163556401458,0.8331593028120562
+2024,Shivalik Sharma,False,0.2,,All-rounder,Mumbai Indians,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Anshul Kamboj,False,0.2,,All-rounder,Mumbai Indians,,A Kamboj,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Mohammad Nabi,True,1.5,,All-rounder,Mumbai Indians,,Mohammad Nabi,-0.0512649902888319,3,1.0,2.0,Bowler,0.587786664902119,3.661088947993068
+2024,Naman Dhir,False,0.2,,All-rounder,Mumbai Indians,,Naman Dhir,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Nuwan Thushara,True,4.8,,Bowler,Mumbai Indians,,N Thushara,0.0,0,,,Unknown,1.7509374747078,2.438827923906628
+2024,Gerald Coetzee,True,5.0,,All-rounder,Mumbai Indians,,G Coetzee,0.0,0,,,Unknown,1.791759469228055,2.438827923906628
+2024,Chris Woakes,True,4.2,,All-rounder,Punjab Kings,,CR Woakes,0.0930518121929783,3,1.5,4.0,Bowler,1.6174060820832772,5.093735928823472
+2024,Tanay Thyagarajann,False,0.2,,All-rounder,Punjab Kings,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Vishwanath Pratap Singh,False,0.2,,All-rounder,Punjab Kings,,Virat Singh,-0.0078584997562734,3,,,Unknown,-1.4271163556401458,1.189752238034178
+2024,Ashutosh Sharma,False,0.2,,All-rounder,Punjab Kings,,Ashutosh Sharma,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Shashank  Singh,False,0.2,,Batter,Punjab Kings,,Shashank Singh,-0.0655988339887821,10,0.2,2.0,All-rounder,-1.4271163556401458,1.199923762399392
+2024,Rilee Rossouw,True,8.0,,Batter,Punjab Kings,,RR Rossouw,0.0288269532690612,9,4.6,1.0,Batter,2.2617630984737906,8.397438231864603
+2024,Prince Choudhary,False,0.2,,Bowler,Punjab Kings,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Harshal Patel,False,11.75,,All-rounder,Punjab Kings,,HV Patel,0.2801885146498014,44,10.75,2.0,Bowler,2.6461747973841225,6.694162295176129
+2024,Shubham Dubey,False,5.8,,Batter,Rajasthan Royals,,SB Dubey,0.0,0,,,Unknown,1.940179474346328,0.6729593034482981
+2024,Rovman Powell,True,7.4,,Batter,Rajasthan Royals,,R Powell,0.0677251564081967,17,2.8,2.0,Batter,2.1838015570040787,10.690600116543203
+2024,Abid Mushtaq,False,0.2,,All-rounder,Rajasthan Royals,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Nandre Burger,True,0.5,,Bowler,Rajasthan Royals,,N Burger,0.0,0,,,Unknown,-0.5108256237659907,2.438827923906628
+2024,Tom Kohler-Cadmore,True,0.4,,WK-Batter,Rajasthan Royals,,T Kohler-Cadmore,0.0,0,,,Unknown,-0.7339691750802004,2.438827923906628
+2024,Lockie Ferguson,True,2.0,,Bowler,Royal Challengers Bengaluru,,LH Ferguson,0.1461024577610538,24,10.0,2.0,Bowler,0.8754687373538999,15.424948891445117
+2024,Tom Curran,True,1.5,,All-rounder,Royal Challengers Bengaluru,,TK Curran,0.0011932062046774,3,5.25,3.0,Bowler,0.587786664902119,5.264485228138515
+2024,Saurav Chuahan,False,0.2,,Batter,Royal Challengers Bengaluru,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Alzarri Joseph,True,11.5,,Bowler,Royal Challengers Bengaluru,,AS Joseph,-0.0189921773860773,16,2.4,2.0,Bowler,2.624668592163159,8.33833875293991
+2024,Swapnil Singh,False,0.2,,All-rounder,Royal Challengers Bengaluru,,Swapnil Singh,-0.0093393113511027,2,0.2,1.0,Unknown,-1.4271163556401458,0.8576644235758999
+2024,Yash  Dayal,False,5.0,,Bowler,Royal Challengers Bengaluru,,Yash Dayal,-0.1123025156228006,14,3.2,2.0,Bowler,1.791759469228055,1.7448757801899188
+2024,Jhathavedh Subramanyan,False,0.2,,Bowler,Sunrisers Hyderabad,,,0.0,0,,,Unknown,-1.4271163556401458,0.6729593034482981
+2024,Akash Singh,False,0.2,,Bowler,Sunrisers Hyderabad,,Akash Singh,-0.1484638851362052,7,0.2,3.0,Bowler,-1.4271163556401458,0.8373564911815332
+2024,Jaydev Unadkat,False,1.6,,Bowler,Sunrisers Hyderabad,,JD Unadkat,-0.0221051974447241,14,0.5,1.0,Bowler,0.6523251860396901,1.759112249741251
+2024,Wanindu Hasaranga,True,1.5,,All-rounder,Sunrisers Hyderabad,,PWH de Silva,0.2679075345253522,26,10.75,2.0,Bowler,0.587786664902119,19.165936394429952
+2024,Pat Cummins,True,20.5,,All-rounder,Sunrisers Hyderabad,,PJ Cummins,0.1357292697971429,12,7.25,2.0,Bowler,3.202746442938317,11.019280208124217
+2024,Travis Head,True,6.8,,Batter,Sunrisers Hyderabad,,TM Head,0.0,0,0.5,8.0,Unknown,2.0992441689760155,2.251745143066595
+2025,Noor Ahmad,True,10.0,2.0,,Chennai Super Kings,True,Noor Ahmad,0.066424402204554,23,0.3,3.0,Bowler,2.302585092994046,7.287839765129655
+2025,Ravichandaran Ashwin,False,9.75,2.0,,Chennai Super Kings,True,R Ashwin,0.2926150824925543,44,,,Bowler,2.277267285009756,7.261783645778345
+2025,Devon Conway,True,6.25,2.0,,Chennai Super Kings,True,DP Conway,0.3777027671742751,23,1.0,3.0,Batter,1.8325814637483102,14.079979280204778
+2025,Syed Khaleel Ahmed,False,4.8,2.0,,Chennai Super Kings,True,Shahbaz Ahmed,-0.2503372945462798,42,5.25,3.0,All-rounder,1.5686159179138452,2.8997310445294824
+2025,Rachin Ravindra,True,4.0,1.5,,Chennai Super Kings,True,R Ravindra,-0.0041570814477783,10,1.8,1.0,Batter,1.3862943611198906,6.267773715419269
+2025,Anshul Kamboj,False,3.4,0.3,,Chennai Super Kings,False,A Kamboj,-0.096137508239323,3,0.2,1.0,Bowler,1.2237754316221157,1.0621164155839244
+2025,Rahul Tripathi,False,3.4,0.75,,Chennai Super Kings,True,RA Tripathi,0.2749396121645828,33,8.5,3.0,Batter,1.2237754316221157,8.88157443803373
+2025,Sam Curran,True,2.4,2.0,,Chennai Super Kings,True,SM Curran,-0.1155565570822745,27,18.5,2.0,All-rounder,0.8754687373538999,8.737798875535544
+2025,Gurjapneet Singh,False,2.2,0.3,,Chennai Super Kings,False,Gurjapneet Singh,0.0,0,,,Unknown,0.7884573603642703,0.9912711118102128
+2025,Nathan Ellis,True,2.0,1.25,,Chennai Super Kings,True,NT Ellis,0.3270728546908855,13,0.75,3.0,Bowler,0.6931471805599453,9.493911812072097
+2025,Deepak Hooda,False,1.7,0.75,,Chennai Super Kings,True,DJ Hooda,0.1452398209898421,38,5.75,3.0,Batter,0.5306282510621704,7.426288242667507
+2025,Jamie Overton,True,1.5,1.5,,Chennai Super Kings,True,J Overton,0.0,0,,,Unknown,0.4054651081081644,2.0849253126085863
+2025,Vijay Shankar,False,1.2,0.3,,Chennai Super Kings,False,V Shankar,-0.0662923841095464,25,1.4,3.0,Batter,0.1823215567939546,3.4982945571603565
+2025,Vansh Bedi,False,0.55,0.3,,Chennai Super Kings,False,,0.0,0,,,Unknown,-0.5978370007556204,0.9912711118102128
+2025,Andre Siddarth,False,0.3,0.3,,Chennai Super Kings,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Shreyas Gopal,False,0.3,0.3,,Chennai Super Kings,False,S Gopal,-0.0801594346591701,4,0.2,1.0,Bowler,-1.2039728043259361,1.2216646895274081
+2025,Ramakrishna Ghosh,False,0.3,0.3,,Chennai Super Kings,False,RS Ghosh,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Kamlesh Nagarkoti,False,0.3,0.3,,Chennai Super Kings,False,KL Nagarkoti,-0.0311558492822446,1,1.1,3.0,Unknown,-1.2039728043259361,1.250923174785489
+2025,Mukesh Choudhary,False,0.3,0.3,,Chennai Super Kings,False,Mukesh Choudhary,-0.1185035766305465,14,0.2,3.0,Bowler,-1.2039728043259361,1.7540869044323408
+2025,Shaik Rasheed,False,0.3,0.3,,Chennai Super Kings,False,SK Rasheed,0.0,0,0.2,2.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,KL Rahul,False,14.0,2.0,,Delhi Capitals,True,KL Rahul,0.231506981096026,38,11.0,7.0,Batter,2.6390573296152584,9.153530524106923
+2025,Mitchell Starc,True,11.75,2.0,,Delhi Capitals,True,MA Starc,0.0115577815788823,13,24.75,1.0,Bowler,2.463853240590168,9.562247497521538
+2025,T. Natarajan,False,10.75,2.0,,Delhi Capitals,True,T Natarajan,0.3498110007824548,37,4.0,3.0,Bowler,2.3749057545736716,8.901573071871745
+2025,Jake Fraser-Mcgurk,True,9.0,2.0,,Delhi Capitals,True,J Fraser-McGurk,0.6098533016876453,9,,,Batter,2.1972245773362196,13.366910392327592
+2025,Mukesh Kumar,False,8.0,2.0,,Delhi Capitals,True,Mukesh Kumar,0.025347749920453,20,5.5,2.0,Bowler,2.0794415416798357,4.523837222077997
+2025,Harry Brook,True,6.25,2.0,,Delhi Capitals,True,HC Brook,-0.1628470508813559,11,4.0,1.0,Batter,1.8325814637483102,4.635386852977783
+2025,Ashutosh Sharma,False,3.8,0.3,,Delhi Capitals,False,Ashutosh Sharma,0.1795214332869205,11,0.2,1.0,Batter,1.33500106673234,3.0321788760283863
+2025,Mohit Sharma,False,2.2,0.5,,Delhi Capitals,False,MM Sharma,0.2121053571334591,26,0.5,2.0,Bowler,0.7884573603642703,4.802904252922033
+2025,Faf Du Plessis,True,2.0,2.0,,Delhi Capitals,True,F du Plessis,0.4848754755171394,45,7.0,3.0,Batter,0.6931471805599453,28.00056735621651
+2025,Sameer Rizvi,False,0.95,0.3,,Delhi Capitals,False,Sameer Rizvi,-0.0372060725741348,8,8.4,1.0,Batter,-0.051293294387550696,3.0539521168871335
+2025,Donovan Ferreira,True,0.75,0.75,,Delhi Capitals,True,D Ferreira,-0.0234819950726334,2,0.5,2.0,Unknown,-0.2876820724517809,2.881256531215963
+2025,Dushmantha Chameera,True,0.75,0.75,,Delhi Capitals,True,PVD Chameera,-0.050115679620289,13,0.5,7.0,Bowler,-0.2876820724517809,4.893026817069178
+2025,Vipraj Nigam,False,0.5,0.3,,Delhi Capitals,False,V Nigam,0.0,0,,,Unknown,-0.6931471805599453,0.9912711118102128
+2025,Karun Nair,False,0.5,0.3,,Delhi Capitals,False,KK Nair,-0.0245322191207677,3,1.4,3.0,Unknown,-0.6931471805599453,1.7683178481945068
+2025,Madhav Tiwari,False,0.4,0.3,,Delhi Capitals,False,M Tiwari,0.0,0,,,Unknown,-0.916290731874155,0.9912711118102128
+2025,Tripurana Vijay,False,0.3,0.3,,Delhi Capitals,False,T Vijay,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Manvanth Kumar L,False,0.3,0.3,,Delhi Capitals,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Ajay Mandal,False,0.3,0.3,,Delhi Capitals,False,,0.0,0,0.2,2.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Darshan Nalkande,False,0.3,0.3,,Delhi Capitals,False,DG Nalkande,-0.0777592017572388,6,0.2,3.0,Bowler,-1.2039728043259361,1.4198698843122104
+2025,Jos  Buttler,True,15.75,2.0,,Gujarat Titans,True,JC Buttler,0.4361237544876887,42,4.4,7.0,Batter,2.7568403652716422,23.864856238663396
+2025,Mohammad Siraj,False,12.25,2.0,,Gujarat Titans,True,Mohammed Siraj,0.2747798392926171,43,,,Bowler,2.505525936990736,7.010715145190891
+2025,Kagiso Rabada,True,10.75,2.0,,Gujarat Titans,True,K Rabada,0.2331395006907862,30,9.25,3.0,Bowler,2.3749057545736716,16.210645241670253
+2025,Prasidh Krishna,False,9.5,2.0,,Gujarat Titans,True,M Prasidh Krishna,0.0980386986727678,17,10.0,3.0,Bowler,2.2512917986064953,5.086031862524814
+2025,Washington Sundar,False,3.2,2.0,,Gujarat Titans,True,Washington Sundar,-0.0667847807200146,18,8.75,3.0,Bowler,1.1631508098056809,3.6859557871561583
+2025,Sherfane Rutherford,True,2.6,1.5,,Gujarat Titans,True,SE Rutherford,-0.0898856339053176,3,1.5,1.0,Batter,0.9555114450274363,3.1261475016259967
+2025,Gerald Coetzee,True,2.4,1.25,,Gujarat Titans,True,G Coetzee,-0.098211536238454,10,5.0,1.0,Bowler,0.8754687373538999,5.223675586072804
+2025,Glenn Phillips,True,2.0,2.0,,Gujarat Titans,True,GD Phillips,0.0740646710489436,5,1.5,3.0,All-rounder,0.6931471805599453,4.998333695636462
+2025,R. Sai Kishore,False,2.0,0.75,,Gujarat Titans,True,R Sai Kishore,0.2288249133677879,10,3.0,3.0,Bowler,0.6931471805599453,4.244263066935263
+2025,Mahipal Lomror,False,1.7,0.5,,Gujarat Titans,False,MK Lomror,-0.0005576637044666,29,0.95,3.0,Batter,0.5306282510621704,4.247065898968176
+2025,Gurnoor Singh Brar,False,1.3,0.3,,Gujarat Titans,False,Gurnoor Brar,-0.1017064703492198,1,,,Unknown,0.26236426446749106,1.0026476331248428
+2025,Mohd. Arshad Khan,False,1.3,0.3,,Gujarat Titans,False,,0.0,0,0.2,1.0,Unknown,0.26236426446749106,0.811311105531329
+2025,Karim Janat,True,0.75,0.75,,Gujarat Titans,True,Karim Janat,0.0,0,,,Unknown,-0.2876820724517809,2.0849253126085863
+2025,Jayant Yadav,False,0.75,0.75,,Gujarat Titans,True,J Yadav,0.043801865610486,1,1.7,3.0,Unknown,-0.2876820724517809,1.539012885374922
+2025,Ishant Sharma,False,0.75,0.75,,Gujarat Titans,True,I Sharma,0.1885642668062577,17,0.5,2.0,Bowler,-0.2876820724517809,3.9053660939023955
+2025,Kumar Kushagra,False,0.65,0.3,,Gujarat Titans,False,Kumar Kushagra,-0.0751825166243736,4,7.2,1.0,Unknown,-0.4307829160924542,2.0938699241246597
+2025,Kulwant Khejroliya,False,0.3,0.3,,Gujarat Titans,False,K Khejroliya,-0.0828776317191982,2,0.2,2.0,Unknown,-1.2039728043259361,1.0284614929781493
+2025,Manav Suthar,False,0.3,0.3,,Gujarat Titans,False,MJ Suthar,-0.0471706555162187,1,0.2,1.0,Unknown,-1.2039728043259361,0.9558558788247856
+2025,Anuj Rawat,False,0.3,0.3,,Gujarat Titans,False,Anuj Rawat,-0.1169284461340426,22,3.4,3.0,Batter,-1.2039728043259361,3.2381858031554196
+2025,Nishant Sindhu,False,0.3,0.3,,Gujarat Titans,False,N Sindhu,0.0,0,0.6,2.0,Unknown,-1.2039728043259361,0.9374446694831801
+2025,Venkatesh Iyer,False,23.75,2.0,,Kolkata Knight Riders,True,VR Iyer,0.1179045088650314,40,0.2,4.0,Batter,3.1675825304806504,4.689715777340109
+2025,Anrich Nortje,True,6.5,2.0,,Kolkata Knight Riders,True,A Nortje,-0.0867980161020429,22,0.2,6.0,Bowler,1.8718021769015913,4.838504047843851
+2025,Quinton De Kock,True,3.6,2.0,,Kolkata Knight Riders,True,Q de Kock,0.1251530247175909,30,6.75,3.0,Batter,1.2809338454620642,14.052364693662112
+2025,Angkrish Raghuvanshi,False,3.0,0.3,,Kolkata Knight Riders,False,A Raghuvanshi,0.0797029450023762,10,0.2,1.0,Batter,1.0986122886681098,2.531734545666578
+2025,Spencer Johnson,True,2.8,2.0,,Kolkata Knight Riders,True,SH Johnson,0.0112497826315447,5,10.0,1.0,Bowler,1.0296194171811581,5.90898684464456
+2025,Moeen Ali,True,2.0,2.0,,Kolkata Knight Riders,True,MM Ali,0.242822128351404,33,7.0,4.0,All-rounder,0.6931471805599453,16.35229206678912
+2025,Rahmanullah Gurbaz,True,2.0,2.0,,Kolkata Knight Riders,True,Rahmanullah Gurbaz,0.0429009364418866,13,,,Batter,0.6931471805599453,6.840652186015001
+2025,Vaibhav Arora,False,1.8,0.3,,Kolkata Knight Riders,False,VG Arora,-0.0132575322479074,20,0.6,2.0,Bowler,0.5877866649021191,3.140805689590859
+2025,Ajinkya Rahane,False,1.5,1.5,,Kolkata Knight Riders,True,AM Rahane,0.1700247657994212,34,0.5,2.0,Batter,0.4054651081081644,5.3288787759732115
+2025,Rovman Powell,True,1.5,1.5,,Kolkata Knight Riders,True,R Powell,0.0566150353955952,26,7.4,1.0,Batter,0.4054651081081644,12.152822083866381
+2025,Umran  Malik,False,0.75,0.75,,Kolkata Knight Riders,True,Umran Malik,-0.103085074879841,23,,,Bowler,-0.2876820724517809,2.7347854885193694
+2025,Manish Pandey,False,0.75,0.75,,Kolkata Knight Riders,True,MK Pandey,0.0020453767151628,17,0.5,1.0,Batter,-0.2876820724517809,3.1526075296392495
+2025,Anukul Roy,False,0.4,0.3,,Kolkata Knight Riders,False,AS Roy,-0.1058740543743721,9,0.2,3.0,Bowler,-0.916290731874155,1.5283450563721532
+2025,Luvnith Sisodia,False,0.3,0.3,,Kolkata Knight Riders,False,,0.0,0,0.2,3.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Mayank Markande,False,0.3,0.3,,Kolkata Knight Riders,False,M Markande,0.0830129832507476,19,0.5,2.0,Bowler,-1.2039728043259361,3.5108930474921634
+2025,Rishabh Pant,False,27.0,2.0,,Lucknow Super Giants,True,RR Pant,0.4996935850145004,27,1.9,9.0,Batter,3.295836866004329,9.267685623759709
+2025,Avesh Khan,False,9.75,2.0,,Lucknow Super Giants,True,Avesh Khan,0.1964288451021617,37,10.0,3.0,Bowler,2.277267285009756,8.057956627910512
+2025,Akash Deep,False,8.0,1.0,,Lucknow Super Giants,True,Akash Deep,-0.3170894537579347,8,0.2,3.0,Bowler,2.0794415416798357,0.809295897707755
+2025,David Miller,True,7.5,1.5,,Lucknow Super Giants,True,DA Miller,0.2058232406948936,41,3.0,3.0,Batter,2.0149030205422647,16.143543650038097
+2025,Abdul Samad,False,4.2,0.3,,Lucknow Super Giants,False,Abdul Samad,0.0132827869010709,27,0.2,5.0,Batter,1.4350845252893227,3.4296040783067148
+2025,Mitchell Marsh,True,3.4,2.0,,Lucknow Super Giants,True,MR Marsh,0.0571299555999293,21,6.5,3.0,All-rounder,1.2237754316221157,10.301935617779213
+2025,Shahbaz Ahamad,False,2.4,1.0,,Lucknow Super Giants,True,,0.0,0,2.4,3.0,Unknown,0.8754687373538999,1.1249616159032476
+2025,Aiden Markram,True,2.0,2.0,,Lucknow Super Giants,True,AK Markram,0.1645558735081697,38,2.6,3.0,Batter,0.6931471805599453,14.466644699211862
+2025,Matthew Breetzke,True,0.75,0.75,,Lucknow Super Giants,True,MP Breetzke,0.0,0,,,Unknown,-0.2876820724517809,2.0849253126085863
+2025,Shamar Joseph,True,0.75,0.75,,Lucknow Super Giants,True,S Joseph,-0.1027441635976324,1,,,Unknown,-0.2876820724517809,2.1027411523322748
+2025,M. Siddharth,False,0.75,0.3,,Lucknow Super Giants,False,M Siddharth,0.0095675604550304,3,2.4,1.0,Bowler,-0.2876820724517809,1.9537582350092135
+2025,Arshin Kulkarni,False,0.3,0.3,,Lucknow Super Giants,False,AA Kulkarni,-0.0966884583283755,2,0.2,1.0,Unknown,-1.2039728043259361,0.9894888297358062
+2025,Rajvardhan Hangargekar,False,0.3,0.3,,Lucknow Super Giants,False,RS Hangargekar,0.0010180556481707,2,1.5,3.0,Bowler,-1.2039728043259361,1.604570224371618
+2025,Yuvraj Chaudhary,False,0.3,0.3,,Lucknow Super Giants,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Prince Yadav,False,0.3,0.3,,Lucknow Super Giants,False,Prince Yadav,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Akash Singh,False,0.3,0.3,,Lucknow Super Giants,False,Akash Singh,-0.1021476358469737,6,0.2,1.0,Bowler,-1.2039728043259361,1.3262393931501775
+2025,Digvesh Singh,False,0.3,0.3,,Lucknow Super Giants,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Himmat Singh,False,0.3,0.3,,Lucknow Super Giants,False,Himmat Singh,0.0,0,0.65,6.0,Unknown,-1.2039728043259361,0.9473666304898235
+2025,Aryan Juyal,False,0.3,0.3,,Lucknow Super Giants,False,,0.0,0,0.2,3.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Trent Boult,True,12.5,2.0,,Mumbai Indians,True,TA Boult,0.4864919216030203,41,8.0,3.0,Bowler,2.5257286443082556,26.04311941303427
+2025,Deepak Chahar,False,9.25,2.0,,Mumbai Indians,True,DL Chahar,0.177956491188837,18,14.0,3.0,Bowler,2.224623551524334,6.101368054726223
+2025,Will Jacks,True,5.25,2.0,,Mumbai Indians,True,WG Jacks,0.1468094730503444,8,3.2,2.0,All-rounder,1.6582280766035324,7.288078911323498
+2025,Naman Dhir,False,5.25,0.3,,Mumbai Indians,False,Naman Dhir,-0.0445538712220804,7,0.2,1.0,All-rounder,1.6582280766035324,1.6363723733215352
+2025,Allah  Ghazanfar,True,4.8,0.75,,Mumbai Indians,True,AM Ghazanfar,0.0,0,,,Unknown,1.5686159179138452,2.0849253126085863
+2025,Mitchell Santner,True,2.0,2.0,,Mumbai Indians,True,MJ Santner,0.1410942595233808,12,1.9,3.0,Bowler,0.6931471805599453,7.959891207236993
+2025,Ryan Rickelton,True,1.0,1.0,,Mumbai Indians,True,RD Rickelton,0.0,0,,,Unknown,0.0,2.0849253126085863
+2025,Lizaad Williams,True,0.75,0.75,,Mumbai Indians,True,LB Williams,-0.0946605163085322,2,,,Bowler,-0.2876820724517809,2.424008745768626
+2025,Reece Topley,True,0.75,0.75,,Mumbai Indians,True,RJW Topley,-0.0500667346166532,5,1.9,2.0,Bowler,-0.2876820724517809,4.06268308826068
+2025,Robin Minz,False,0.65,0.3,,Mumbai Indians,False,R Minz,0.0,0,3.6,1.0,Unknown,-0.4307829160924542,1.1865878505383323
+2025,Karn Sharma,False,0.5,0.5,,Mumbai Indians,False,KV Sharma,-0.1096691133765926,16,0.5,3.0,Bowler,-0.6931471805599453,2.139591980526601
+2025,Vignesh Puthur,False,0.3,0.3,,Mumbai Indians,False,V Puthur,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Arjun  Tendulkar,False,0.3,0.3,,Mumbai Indians,False,Arjun Tendulkar,-0.0487735754483116,5,0.3,3.0,Bowler,-1.2039728043259361,1.5206979380992884
+2025,Bevan John Jacobs,True,0.3,0.3,,Mumbai Indians,False,,0.0,0,,,Unknown,-1.2039728043259361,2.0849253126085863
+2025,Venkata Satyanarayana Penmetsa,False,0.3,0.3,,Mumbai Indians,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Raj Angad Bawa,False,0.3,0.3,,Mumbai Indians,False,RA Bawa,0.0204029827051742,2,2.0,3.0,Unknown,-1.2039728043259361,1.8076577110139675
+2025,Shrijith Krishnan,False,0.3,0.3,,Mumbai Indians,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Ashwani Kumar,False,0.3,0.3,,Mumbai Indians,False,Ashwani Kumar,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Shreyas Iyer,False,26.75,2.0,,Punjab Kings,True,SS Iyer,0.3670378783822807,28,12.25,3.0,Batter,3.2865344733420154,9.937354005005561
+2025,Yuzvendra Chahal,False,18.0,2.0,,Punjab Kings,True,YS Chahal,0.3431562652272245,46,6.5,3.0,Bowler,2.8903717578961645,10.291114900954117
+2025,Arshdeep Singh,False,18.0,2.0,,Punjab Kings,True,Arshdeep Singh,0.1761573761906458,42,0.2,6.0,Bowler,2.8903717578961645,4.932140164589308
+2025,Marcus Stoinis,True,11.0,2.0,,Punjab Kings,True,MP Stoinis,0.4394065472025205,40,4.8,5.0,All-rounder,2.3978952727983707,22.348164593609294
+2025,Marco Jansen,True,7.0,1.25,,Punjab Kings,True,M Jansen,-0.1726874212336155,19,4.2,3.0,Bowler,1.9459101490553132,5.350337644648939
+2025,Nehal Wadhera,False,4.2,0.3,,Punjab Kings,False,N Wadhera,0.2203265690341116,20,0.2,2.0,Batter,1.4350845252893227,4.082579252976718
+2025,Glenn Maxwell,True,4.2,2.0,,Punjab Kings,True,GJ Maxwell,0.4434688615698052,37,14.25,4.0,All-rounder,1.4350845252893227,25.109955994392024
+2025,Priyansh Arya,False,3.8,0.3,,Punjab Kings,False,Priyansh Arya,0.0,0,,,Unknown,1.33500106673234,0.9912711118102128
+2025,Josh Inglis,True,2.6,2.0,,Punjab Kings,True,JP Inglis,0.0,0,,,Unknown,0.9555114450274363,2.0849253126085863
+2025,Azmatullah Omarzai,True,2.4,1.5,,Punjab Kings,True,Azmatullah Omarzai,0.0104866399539782,7,0.5,1.0,Bowler,0.8754687373538999,4.500300290600682
+2025,Lockie Ferguson,True,2.0,2.0,,Punjab Kings,True,LH Ferguson,-0.0198079618793895,23,2.0,1.0,Bowler,0.6931471805599453,8.044794798058904
+2025,Vyshak Vijaykumar,False,1.8,0.3,,Punjab Kings,False,,0.0,0,,,Unknown,0.5877866649021191,0.9912711118102128
+2025,Yash Thakur,False,1.6,0.3,,Punjab Kings,False,Yash Thakur,0.0179541364916156,19,0.45,2.0,Bowler,0.47000362924573563,3.153954349019252
+2025,Harpreet  Brar,False,1.5,0.3,,Punjab Kings,False,Harpreet Brar,0.1267942333200806,31,3.8,3.0,Bowler,0.4054651081081644,5.966178583283459
+2025,Aaron Hardie,True,1.25,1.25,,Punjab Kings,True,,0.0,0,,,Unknown,0.22314355131420976,2.0849253126085863
+2025,Vishnu Vinod,False,0.95,0.3,,Punjab Kings,False,Vishnu Vinod,-0.0226129857446081,3,0.2,2.0,Batter,-0.051293294387550696,1.3763588181161772
+2025,Xavier Bartlett,True,0.8,0.75,,Punjab Kings,True,XC Bartlett,0.0,0,,,Unknown,-0.2231435513142097,2.0849253126085863
+2025,Kuldeep  Sen,False,0.8,0.75,,Punjab Kings,True,KR Sen,0.0594980247128477,12,0.2,3.0,Bowler,-0.2231435513142097,2.5035413554883172
+2025,Pravin Dubey,False,0.3,0.3,,Punjab Kings,False,P Dubey,-0.0309908892284092,1,0.5,3.0,All-rounder,-1.2039728043259361,1.0609311855391261
+2025,Pyla Avinash,False,0.3,0.3,,Punjab Kings,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Suryansh  Shedge,False,0.3,0.3,,Punjab Kings,False,Suryansh Shedge,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Musheer Khan,False,0.3,0.3,,Punjab Kings,False,Musheer Khan,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Harnoor Pannu,False,0.3,0.3,,Punjab Kings,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Jofra Archer,True,12.5,2.0,,Rajasthan Royals,True,JC Archer,0.0201636931892126,5,8.0,3.0,Bowler,2.5257286443082556,5.811937478493311
+2025,Tushar Deshpande,False,6.5,1.0,,Rajasthan Royals,True,TU Deshpande,0.1772744250541925,31,0.2,3.0,Bowler,1.8718021769015913,4.354652561278515
+2025,Wanindu Hasaranga,True,5.25,2.0,,Rajasthan Royals,True,PWH de Silva,0.2554795235428261,24,1.5,1.0,Bowler,1.6582280766035324,12.02048197914159
+2025,Maheesh Theekshana,True,4.4,2.0,,Rajasthan Royals,True,M Theekshana,0.3488818945850191,27,0.7,3.0,Bowler,1.4816045409242156,13.049744659844574
+2025,Nitish Rana,False,4.2,1.5,,Rajasthan Royals,True,N Rana,0.4024482955066799,30,8.0,3.0,Batter,1.4350845252893227,10.170964974898332
+2025,Fazalhaq Farooqi,True,2.0,2.0,,Rajasthan Royals,True,Fazalhaq Farooqi,0.0456534492337804,7,0.5,3.0,Bowler,0.6931471805599453,4.733221222209631
+2025,Kwena Maphaka,True,1.5,0.75,,Rajasthan Royals,True,KT Maphaka,-0.1456987521906735,2,,,Bowler,0.4054651081081644,2.101521636673273
+2025,Akash Madhwal,False,1.2,0.3,,Rajasthan Royals,False,Akash Madhwal,0.3529071116987592,13,,,Bowler,0.1823215567939546,4.810013626905216
+2025,Vaibhav Suryavanshi,False,1.1,0.3,,Rajasthan Royals,False,V Suryavanshi,0.0,0,,,Unknown,0.09531017980432493,0.9912711118102128
+2025,Shubham Dubey,False,0.8,0.3,,Rajasthan Royals,False,SB Dubey,0.0296374508134288,4,5.8,1.0,Unknown,-0.2231435513142097,2.6205823829554067
+2025,Yudhvir Charak,False,0.35,0.3,,Rajasthan Royals,False,,0.0,0,0.2,2.0,Unknown,-1.0498221244986778,0.811311105531329
+2025,Ashok Sharma,False,0.3,0.3,,Rajasthan Royals,False,Ashok Sharma,0.0,0,0.55,3.0,Unknown,-1.2039728043259361,0.9267767269257483
+2025,Kunal Rathore,False,0.3,0.3,,Rajasthan Royals,False,KS Rathore,0.0,0,0.2,2.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Kumar Kartikeya Singh,False,0.3,0.3,,Rajasthan Royals,False,,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Josh Hazlewood,True,12.5,2.0,,Royal Challengers Bengaluru,True,JR Hazlewood,0.2456051796866644,15,7.75,3.0,Bowler,2.5257286443082556,12.157396165830171
+2025,Phil Salt,True,11.5,2.0,,Royal Challengers Bengaluru,True,PD Salt,0.3197906901558709,21,2.0,2.0,Batter,2.4423470353692043,13.676554519698003
+2025,Jitesh Sharma,False,11.0,1.0,,Royal Challengers Bengaluru,True,JM Sharma,0.2389476710978466,40,0.2,3.0,Batter,2.3978952727983707,5.579283080250487
+2025,Bhuvneshwar Kumar,False,10.75,2.0,,Royal Challengers Bengaluru,True,B Kumar,0.3482081829837534,44,4.2,3.0,Bowler,2.3749057545736716,9.607296820699363
+2025,Liam Livingstone,True,8.75,2.0,,Royal Challengers Bengaluru,True,LS Livingstone,0.4529957784509592,30,11.5,3.0,All-rounder,2.169053700369523,22.687584447971552
+2025,Rasikh Dar,False,6.0,0.3,,Royal Challengers Bengaluru,False,Rasikh Salam,-0.05379693849592,10,0.2,1.0,Bowler,1.791759469228055,1.8414245004851493
+2025,Krunal Pandya,False,5.75,2.0,,Royal Challengers Bengaluru,True,KH Pandya,0.3293948887154938,43,8.25,3.0,All-rounder,1.749199854809259,10.04193847820082
+2025,Tim David,True,3.0,2.0,,Royal Challengers Bengaluru,True,TH David,0.19218794765944,37,8.25,3.0,Batter,1.0986122886681098,17.327431320968085
+2025,Jacob Bethell,True,2.6,1.25,,Royal Challengers Bengaluru,True,JG Bethell,0.0,0,,,Unknown,0.9555114450274363,2.0849253126085863
+2025,Suyash Sharma,False,2.6,0.3,,Royal Challengers Bengaluru,False,Suyash Sharma,0.0878928043659136,13,0.2,2.0,Bowler,0.9555114450274363,2.6914680679548786
+2025,Devdutt Padikkal,False,2.0,2.0,,Royal Challengers Bengaluru,True,D Padikkal,-0.0920382877129704,35,7.75,3.0,Batter,0.6931471805599453,4.684533604586833
+2025,Nuwan Thushara,True,1.6,0.75,,Royal Challengers Bengaluru,True,N Thushara,0.2063707955960391,7,4.8,1.0,Bowler,0.47000362924573563,8.026313313667528
+2025,Romario Shepherd,True,1.5,1.5,,Royal Challengers Bengaluru,True,R Shepherd,-0.1290339204851192,10,0.5,2.0,All-rounder,0.4054651081081644,3.5118719711622157
+2025,Lungisani Ngidi,True,1.0,1.0,,Royal Challengers Bengaluru,True,L Ngidi,0.0,0,0.5,3.0,Unknown,0.0,1.9249904432793132
+2025,Swapnil Singh,False,0.5,0.3,,Royal Challengers Bengaluru,False,Swapnil Singh,0.1860637749548666,9,0.2,1.0,Bowler,-0.6931471805599453,2.684026559434772
+2025,Mohit Rathee,False,0.3,0.3,,Royal Challengers Bengaluru,False,Mohit Rathee,-0.03141253455363,1,0.2,2.0,Unknown,-1.2039728043259361,0.9989300849728421
+2025,Abhinandan Singh,False,0.3,0.3,,Royal Challengers Bengaluru,False,Abhinandan Singh,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Swastik Chhikara,False,0.3,0.3,,Royal Challengers Bengaluru,False,,0.0,0,0.2,1.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Manoj Bhandage,False,0.3,0.3,,Royal Challengers Bengaluru,False,MS Bhandage,0.0,0,0.2,2.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Ishan Kishan,False,11.25,2.0,,Sunrisers Hyderabad,True,Ishan Kishan,0.1020219026404039,44,15.25,3.0,Batter,2.4203681286504293,8.43505931029571
+2025,Mohammad Shami,False,10.0,2.0,,Sunrisers Hyderabad,True,Mohammed Shami,0.4273573577653703,33,6.25,3.0,Bowler,2.302585092994046,10.061564927652451
+2025,Harshal Patel,False,8.0,2.0,,Sunrisers Hyderabad,True,HV Patel,0.1726460795299773,43,11.75,1.0,Bowler,2.0794415416798357,8.468298401252625
+2025,Abhinav Manohar,False,3.2,0.3,,Sunrisers Hyderabad,False,A Manohar,0.0329608072918513,19,,,Batter,1.1631508098056809,3.7336295864483215
+2025,Rahul Chahar,False,3.2,1.0,,Sunrisers Hyderabad,True,RD Chahar,0.3097020284577203,36,5.25,3.0,Bowler,1.1631508098056809,8.611158841198623
+2025,Adam Zampa,True,2.4,2.0,,Sunrisers Hyderabad,True,A Zampa,-0.0185540009323145,6,1.5,2.0,Bowler,0.8754687373538999,4.593770816549788
+2025,Simarjeet Singh,False,1.5,0.3,,Sunrisers Hyderabad,False,Simarjeet Singh,0.0728075207532054,10,0.2,3.0,Bowler,0.4054651081081644,2.376171400115071
+2025,Eshan Malinga,True,1.2,0.3,,Sunrisers Hyderabad,False,E Malinga,0.0,0,,,Unknown,0.1823215567939546,2.0849253126085863
+2025,Brydon Carse,True,1.0,1.0,,Sunrisers Hyderabad,True,,0.0,0,,,Unknown,0.0,2.0849253126085863
+2025,Jaydev Unadkat,False,1.0,1.0,,Sunrisers Hyderabad,True,JD Unadkat,-0.147499797346773,19,1.6,1.0,Bowler,0.0,2.4040879989087918
+2025,Kamindu Mendis,True,0.75,0.75,,Sunrisers Hyderabad,True,PHKD Mendis,0.0,0,,,Unknown,-0.2876820724517809,2.0849253126085863
+2025,Zeeshan Ansari,False,0.4,0.3,,Sunrisers Hyderabad,False,Zeeshan Ansari,0.0,0,,,Unknown,-0.916290731874155,0.9912711118102128
+2025,Sachin Baby,False,0.3,0.3,,Sunrisers Hyderabad,False,Sachin Baby,0.0,0,0.2,4.0,Unknown,-1.2039728043259361,0.811311105531329
+2025,Aniket Verma,False,0.3,0.3,,Sunrisers Hyderabad,False,Aniket Verma,0.0,0,,,Unknown,-1.2039728043259361,0.9912711118102128
+2025,Atharva Taide,False,0.3,0.3,,Sunrisers Hyderabad,False,Atharva Taide,0.0258296957578553,9,0.2,3.0,Batter,-1.2039728043259361,2.2499619682723333
+2026,Kartik Sharma,False,14.2,0.3,,Chennai Super Kings,False,Kartik Sharma,0.0,0,,,Unknown,2.653241964607215,0.8075511641379578
+2026,Prashant Veer,False,14.2,0.3,,Chennai Super Kings,False,PR Veer,0.0,0,,,Unknown,2.653241964607215,0.8075511641379578
+2026,Rahul Chahar,False,5.2,1.0,,Chennai Super Kings,True,RD Chahar,0.1783915569474972,24,3.2,1.0,Bowler,1.6486586255873816,4.605156738022282
+2026,Matt Henry,True,2.0,2.0,,Chennai Super Kings,True,MJ Henry,-0.0067982874915423,4,0.5,9.0,Bowler,0.6931471805599453,4.995544855073755
+2026,Akeal Hosein,True,2.0,2.0,,Chennai Super Kings,True,AJ Hosein,-0.0408332330565522,1,1.0,3.0,Bowler,0.6931471805599453,3.3647808926575187
+2026,Matthew Short,True,1.5,1.5,,Chennai Super Kings,True,MW Short,0.0428470933675969,6,,,All-rounder,0.4054651081081644,6.716230973080441
+2026,Zak Foulkes,True,0.75,0.75,,Chennai Super Kings,True,,0.0,0,,,Unknown,-0.2876820724517809,2.9265935086879535
+2026,Sarfaraz Khan,False,0.75,0.75,,Chennai Super Kings,True,SN Khan,-0.0718908291921193,4,0.2,4.0,Batter,-0.2876820724517809,1.0745273436097695
+2026,Aman Khan,False,0.4,0.3,,Chennai Super Kings,False,Aman Hakim Khan,0.034905859465227,11,0.2,4.0,Batter,-0.916290731874155,2.007292433712758
+2026,Auqib Dar,False,8.4,0.3,,Delhi Capitals,False,,0.0,0,,,Unknown,2.128231705849268,0.8075511641379578
+2026,Pathum Nissanka,True,4.0,0.75,,Delhi Capitals,True,P Nissanka,0.0,0,,,Unknown,1.3862943611198906,2.9265935086879535
+2026,Kyle Jamieson,True,2.0,2.0,,Delhi Capitals,True,KA Jamieson,0.0727362842371426,4,1.0,3.0,Bowler,0.6931471805599453,6.19106329646589
+2026,Lungisani Ngidi,True,2.0,2.0,,Delhi Capitals,True,L Ngidi,0.0506918066572332,2,1.0,1.0,Bowler,0.6931471805599453,4.823055503471415
+2026,Ben Duckett,True,2.0,2.0,,Delhi Capitals,True,,0.0,0,,,Unknown,0.6931471805599453,2.9265935086879535
+2026,David Miller,True,2.0,2.0,,Delhi Capitals,True,DA Miller,0.0322279355249703,36,7.5,1.0,Batter,0.6931471805599453,18.87700785148548
+2026,Prithvi Shaw,False,0.75,0.75,,Delhi Capitals,True,PP Shaw,-0.1954965003033995,16,1.2,8.0,Batter,-0.2876820724517809,1.6229362742431137
+2026,Sahil Parakh,False,0.3,0.3,,Delhi Capitals,False,SU Parakh,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Jason Holder,True,7.0,2.0,,Gujarat Titans,True,JO Holder,-0.0536244167335985,8,5.75,3.0,Bowler,1.9459101490553132,7.765903312804534
+2026,Tom Banton,True,2.0,2.0,,Gujarat Titans,True,T Banton,0.0,0,1.0,6.0,Unknown,0.6931471805599453,2.9600327145896173
+2026,Ashok Sharma,False,0.9,0.3,,Gujarat Titans,False,Ashok Sharma,0.0,0,0.3,1.0,Unknown,-0.10536051565782628,0.6971515725047287
+2026,Luke Wood,True,0.75,0.75,,Gujarat Titans,True,L Wood,-0.1378285809439099,2,,,Bowler,-0.2876820724517809,3.015548438838671
+2026,Prithviraj Yarra,False,0.3,0.3,,Gujarat Titans,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Cameron Green,True,25.2,2.0,,Kolkata Knight Riders,True,C Green,0.2536016782525771,29,17.5,3.0,All-rounder,3.2268439945173775,24.92909168150624
+2026,Matheesha Pathirana,True,18.0,2.0,,Kolkata Knight Riders,True,M Pathirana,0.305724777565144,30,,,Bowler,2.8903717578961645,18.63332232937338
+2026,Mustafizur Rahman,True,9.2,2.0,,Kolkata Knight Riders,True,Mustafizur Rahman,0.2404379567064868,14,2.0,2.0,Bowler,2.2192034840549946,13.789506468152185
+2026,Tejasvi Singh,False,3.0,0.3,,Kolkata Knight Riders,False,,0.0,0,,,Unknown,1.0986122886681098,0.8075511641379578
+2026,Rachin Ravindra,True,2.0,2.0,,Kolkata Knight Riders,True,R Ravindra,-0.084668608626454,18,4.0,1.0,Batter,0.6931471805599453,9.851975116851529
+2026,Finn Allen,True,2.0,2.0,,Kolkata Knight Riders,True,FH Allen,0.0,0,0.8,4.0,Unknown,0.6931471805599453,2.8744147737967736
+2026,Tim Seifert,True,1.5,1.5,,Kolkata Knight Riders,True,TL Seifert,0.0,0,0.5,4.0,Unknown,0.4054651081081644,2.702094171679914
+2026,Akash Deep,False,1.0,1.0,,Kolkata Knight Riders,True,Akash Deep,-0.3318626263897924,9,8.0,1.0,Bowler,0.0,1.07497768890548
+2026,Rahul Tripathi,False,0.75,0.75,,Kolkata Knight Riders,True,RA Tripathi,-0.0527048730796788,24,3.4,1.0,Batter,-0.2876820724517809,3.271565668115352
+2026,Daksh Kamra,False,0.3,0.3,,Kolkata Knight Riders,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Sarthak Ranjan,False,0.3,0.3,,Kolkata Knight Riders,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Prashant Solanki,False,0.3,0.3,,Kolkata Knight Riders,False,PH Solanki,0.0,0,1.2,4.0,Unknown,-1.2039728043259361,0.8366027191415811
+2026,Kartik Tyagi,False,0.3,0.3,,Kolkata Knight Riders,False,Kartik Tyagi,-0.1732222182575399,4,0.6,2.0,Bowler,-1.2039728043259361,0.8864145425954387
+2026,Josh Inglis,True,8.6,2.0,,Lucknow Super Giants,True,JP Inglis,0.21256266549381,12,2.6,1.0,Batter,2.151762203259462,13.610617233897374
+2026,Mukul Choudhary,False,2.6,0.3,,Lucknow Super Giants,False,MD Choudhary,0.0,0,,,Unknown,0.9555114450274363,0.8075511641379578
+2026,Akshat Raghuwanshi,False,2.2,0.3,,Lucknow Super Giants,False,Akshat Raghuwanshi,0.0,0,,,Unknown,0.7884573603642703,0.8075511641379578
+2026,Anrich Nortje,True,2.0,2.0,,Lucknow Super Giants,True,A Nortje,-0.1405386088597172,18,6.5,1.0,Bowler,0.6931471805599453,8.514218302378112
+2026,Wanindu Hasaranga,True,2.0,2.0,,Lucknow Super Giants,True,PWH de Silva,0.1231007470274792,19,5.25,1.0,Bowler,0.6931471805599453,14.958629850738982
+2026,Naman Tiwari,False,1.0,0.3,,Lucknow Super Giants,False,,0.0,0,,,Unknown,0.0,0.8075511641379578
+2026,Quinton De Kock,True,1.0,1.0,,Mumbai Indians,True,Q de Kock,-0.2055342282613454,23,3.6,1.0,Batter,0.0,7.6558005499825885
+2026,Mayank Rawat,False,0.3,0.3,,Mumbai Indians,False,Mayank Rawat,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Atharva Ankolekar,False,0.3,0.3,,Mumbai Indians,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Mohammad Izhar,False,0.3,0.3,,Mumbai Indians,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Danish Malewar,False,0.3,0.3,,Mumbai Indians,False,DV Malewar,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Ben Dwarshuis,True,4.4,1.0,,Punjab Kings,True,BJ Dwarshuis,0.0,0,1.4,8.0,Unknown,1.4816045409242156,3.0939798878907823
+2026,Cooper Connolly,True,3.0,2.0,,Punjab Kings,True,C Connolly,0.0,0,,,Unknown,1.0986122886681098,2.9265935086879535
+2026,Vishal Nishad,False,0.3,0.3,,Punjab Kings,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Pravin Dubey,False,0.3,0.3,,Punjab Kings,False,P Dubey,-0.0154452555076534,2,0.3,1.0,All-rounder,-1.2039728043259361,1.0035528663123017
+2026,Ravi Bishnoi,False,7.2,2.0,,Rajasthan Royals,True,Ravi Bishnoi,-0.0658694051050029,40,2.0,6.0,Bowler,1.9740810260220096,3.442889712195532
+2026,Adam Milne,True,2.4,2.0,,Rajasthan Royals,True,AF Milne,0.0,0,1.9,4.0,Unknown,0.8754687373538999,3.2207900207781868
+2026,Ravi Singh,False,0.95,0.3,,Rajasthan Royals,False,Ravi Singh,0.0,0,,,Unknown,-0.051293294387550696,0.8075511641379578
+2026,Sushant Mishra,False,0.9,0.3,,Rajasthan Royals,False,SS Mishra,0.0,0,2.2,2.0,Unknown,-0.10536051565782628,0.9060345884050981
+2026,Kuldeep Sen,False,0.75,0.75,,Rajasthan Royals,True,KR Sen,0.0118826176767061,5,0.8,1.0,Bowler,-0.2876820724517809,1.643254006602945
+2026,Brijesh Sharma,False,0.3,0.3,,Rajasthan Royals,False,Brijesh Sharma,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Aman Rao Perala,False,0.3,0.3,,Rajasthan Royals,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Vignesh Puthur,False,0.3,0.3,,Rajasthan Royals,False,V Puthur,0.0469966590855194,5,0.3,1.0,Bowler,-1.2039728043259361,1.5189981940599688
+2026,Yash Raj Punja,False,0.3,0.3,,Rajasthan Royals,False,Yash Raj Punja,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Venkatesh Iyer,False,7.0,2.0,,Royal Challengers Bengaluru,True,VR Iyer,0.1330271045647138,39,23.75,1.0,Batter,1.9459101490553132,7.241984597353854
+2026,Mangesh Yadav,False,5.2,0.3,,Royal Challengers Bengaluru,False,MP Yadav,-0.0063444088623895,6,,,Bowler,1.6486586255873816,1.7257765382178725
+2026,Jacob Duffy,True,2.0,2.0,,Royal Challengers Bengaluru,True,JA Duffy,0.0,0,,,Unknown,0.6931471805599453,2.9265935086879535
+2026,Jordan Cox,True,0.75,0.75,,Royal Challengers Bengaluru,True,,0.0,0,,,Unknown,-0.2876820724517809,2.9265935086879535
+2026,Kanishk Chouhan,False,0.3,0.3,,Royal Challengers Bengaluru,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Vihaan Malhotra,False,0.3,0.3,,Royal Challengers Bengaluru,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Vicky Ostwal,False,0.3,0.3,,Royal Challengers Bengaluru,False,,0.0,0,0.2,4.0,Unknown,-1.2039728043259361,0.6609445387280863
+2026,Satvik Deswal,False,0.3,0.3,,Royal Challengers Bengaluru,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Liam Livingstone,True,13.0,2.0,,Sunrisers Hyderabad,True,LS Livingstone,0.1316367621464379,26,8.75,1.0,All-rounder,2.5649493574615367,18.262938717827122
+2026,Jack Edwards,True,3.0,0.5,,Sunrisers Hyderabad,False,,0.0,0,,,Unknown,1.0986122886681098,2.9265935086879535
+2026,Salil Arora,False,1.5,0.3,,Sunrisers Hyderabad,False,Salil Arora,0.0,0,,,Unknown,0.4054651081081644,0.8075511641379578
+2026,Shivam Mavi,False,0.75,0.75,,Sunrisers Hyderabad,True,Shivam Mavi,0.0,0,6.4,2.0,Unknown,-0.2876820724517809,1.0426658983979968
+2026,Krains Fuletra,False,0.3,0.3,,Sunrisers Hyderabad,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Praful Hinge,False,0.3,0.3,,Sunrisers Hyderabad,False,PP Hinge,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Amit Kumar,False,0.3,0.3,,Sunrisers Hyderabad,False,Ashwani Kumar,0.1303988457182274,7,,,Bowler,-1.2039728043259361,2.2423843126919687
+2026,Onkar Tarmale,False,0.3,0.3,,Sunrisers Hyderabad,False,,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578
+2026,Sakib Hussain,False,0.3,0.3,,Sunrisers Hyderabad,False,Sakib Hussain,0.0,0,0.2,2.0,Unknown,-1.2039728043259361,0.6609445387280863
+2026,Shivang Kumar,False,0.3,0.3,,Sunrisers Hyderabad,False,Shivang Kumar,0.0,0,,,Unknown,-1.2039728043259361,0.8075511641379578

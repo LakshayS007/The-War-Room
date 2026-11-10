@@ -1,0 +1,10 @@
+{
+  "name": "the-war-room",
+  "private": true,
+  "description": "Browser tests for The War Room site",
+  "scripts": {
+    "test": "node tests/smoke.js",
+    "sim": "node tests/auction_sim.js && python pipeline/compare_sim.py"
+  },
+  "devDependencies": { "playwright": "^1.50.0" }
+}
